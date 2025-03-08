@@ -1,0 +1,13 @@
+file_format: "1"
+id: marz44w
+name: The marz44w
+type: shield
+url: https://github.com/mnesarco/zmk-config
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+siblings:
+  - marz44w_left
+  - marz44w_right
+  - marz44w_dongle
