@@ -1,7 +1,7 @@
 include:
   - board: nice_nano_v2
     shield: marz44w_dongle dongle_display
-  - board: nice_nano_v2
-    shield: marz44w_left
-  - board: nice_nano_v2
-    shield: marz44w_right
+  # - board: nice_nano_v2
+  #   shield: marz44w_left
+  # - board: nice_nano_v2
+  #   shield: marz44w_right
