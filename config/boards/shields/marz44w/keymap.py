@@ -1,75 +1,73 @@
-# [...]     &kp
-# {_ _}     &mt
-# (_ _)     &lt &mo
-# (~_)      &sl
-# <_ ...>   alias
-# _____     &trans
+# fmt: off
 
-#  LEFT  | RIGHT  | UNICODE  | DESCRIPTION
-# ---------------------------------------------
-#  ⌘       ⌘'       u2318      Windows/Command
-#  ⌃       ⌃'       u2303      Ctrl
-#  ⇧       ⇧'       u21E7      Shift
-#  ⎇       ⎇'       u2387      Alt
-#  ⏎                u23CE      Enter
-#  ␣                u2423      Space
-#  ←                u2190      Arrow Left
-#  ↑                u2191      Arrow Up
-#  →                u2192      Arrow Right
-#  ↓                u2193      Arrow Down
-#  ᛒ                u16D2      Bluetooth
-
-alias = {}
-macro = {}
-uc = {}
-
-alias["cw"] = "&caps_word"
-alias["acc"] = "LBRC"
-alias["ñ"] = "SEMI"
-alias[";"] = "LS(COMMA)"
-alias["*"] = "LS(RBRC)"
-alias["/"] = "LS(SLSH)"
-alias["-"] = "SLSH"
-alias["zw"] = "LC(LA(DOWN))"
-
-macro[''] = ""
-
-uc['∴'] = "∴" # u2234
+# Import zkeymap language artifacts
+from zkeymap import (
+    alias,
+    layer,
+    label,
+    build_keymap,
+    build_transform,
+    build_layout_json,
+    build_layout_svg,
+    layout,
+    keys,   # Import base key definitions
+    keys_la # Import Language specific keys (Latam)
+)
 
 
-default = r"""
-    {⌘ esc} [ q ] [ w ] [ f ] [ p ] [ b ]      [ j ] [ l ] [ u ] [ y ] [acc]   [ñ]
-    {⎇ tab} {⇧ a} [ r ] [ s ] [ t ] [ g ]      [ m ] [ n ] [ e ] [ i ] {⇧ o}  <cw>
-    {⌃ \\}  [ z ] [ x ] [ c ] [ d ] [ v ]      [ k ] [ h ] [ , ] [ . ] [ ; ] [ ⏎ ]
-        (num tab) (sym bspc) (sym2 ␣) [⇧]      [⎇'] (nav ␣) (sym2 bspc) (adj del)
+# Import or define a physical layout
+from zkeymap.layouts import marz_split_3x6_4
+layout /= marz_split_3x6_4.layout
+
+
+# Select Linux unicode composers
+uc = keys.UnicodeLinux
+
+# User defined aliases
+alias / "cw" /  "&caps_word"
+alias / "zw"/ "LC(LA(DOWN))" # Windows Zoom (Linux Mint)
+alias / "∴" / uc("∴", "∴", name="t3p")
+
+# Layers -----------------
+
+layer / "def" / label("DEF") / r"""
+    {⌘ esc} [ q ] [ w ] [ f ] [ p ] [ b ]      [ j ] [ l ] [ u ] [ y ] [ acut ]    [ñ]
+    {⎇ tab} {⇧ a} [ r ] [ s ] [ t ] [ g ]      [ m ] [ n ] [ e ] [ i ] {⇧ o}      <cw>
+    {⎈  \ } [ z ] [ x ] [ c ] [ d ] [ v ]      [ k ] [ h ] [ , ] [ . ] [ ; ]     [ ⏎ ]
+          (num tab) (sym ⌫) (nav ␣) [⇧ ⎇]      [r⎇] (nav ␣) (sym ⌫) (adj del)
     """
 
-num = r"""
+layer / "num" / label("NUM") / r"""
     _____   [ * ] [ 7 ] [ 8 ] [ 9 ] [ / ]      [ / ] [ 7 ] [ 8 ] [ 9 ] [ * ] [ ∴ ]
     [ , ]   [ 0 ] [ 4 ] [ 5 ] [ 6 ] [ - ]      [ - ] [ 4 ] [ 5 ] [ 6 ] [ 0 ] [ , ]
     [ zw ]  [ . ] [ 1 ] [ 2 ] [ 3 ] [ + ]      [ + ] [ 1 ] [ 2 ] [ 3 ] [ . ] _____
                   _____ _____ _____ _____      _____ _____ _____ _____
     """
 
-sym = r"""
-    [ | ]    [ ! ] [ " ] [ # ] [ $ ] [ % ]      [ & ] [ / ] [ [ ] [ \] ] [ =  ] [ ? ]
-    [ grv ]  [ * ] [ ' ] [ : ] [ _ ] [ - ]      [ - ] [ ( ] [ ) ] [ {  ] [ }  ] _____
-    [ diae ] [ @ ] [ ~ ] [ ^ ] [ = ] [ + ]      [ + ] [ ' ] [ < ] [ >  ] [ \\ ] _____
-                   (adj) _____ _____ _____      _____ _____ (~num) _____
+layer / "sym" / label("SYM1") / r"""
+    [ | ]    [ ! ] [ " ] [ # ] [ $ ] [ % ]      [ & ] [ / ] [ [ ] [ \] ] [ = ] [ ? ]
+    [ grv ]  [ * ] [ ' ] [ : ] [ _ ] [ - ]      [ - ] [ ( ] [ ) ] [ {  ] [ } ] _____
+    [ diae ] [ @ ] [ ~ ] [ ^ ] [ = ] [ + ]      [ + ] [ ' ] [ < ] [ >  ] [ \ ] _____
+                   (adj) _____ _____ _____      _____ _____ (num~) _____
     """
 
-nav = r"""
+layer / "nav" / label("NAV") / r"""
     _____ [ f1 ] [ f2 ] [ f3 ] [ f4 ] [ f5  ]     _____     [ pgup ] [  ↑  ] [ pgdn ] [  f10 ] [ f11 ]
     _____ [ ⇧  ] [ '  ] [ :  ] [ _  ] [ -   ]     [  home ] [   ←  ] [  ↓  ] [   →  ] [  end ] [ f12 ]
-    _____ [ f6 ] [ f7 ] [ f8 ] [ f9 ] [ f10 ]     [ ^home ] [  ^←  ] [ xxx ] [  ^→  ] [ ^end ] _____
+    _____ [ f6 ] [ f7 ] [ f8 ] [ f9 ] [ f10 ]     [ ⎈ home] [ ⎈ ←  ]  xxxxx  [ ⎈ →  ] [⎈ end ]  _____
                       _____ _____ _____ _____     _____ _____ _____ _____
     """
 
-adj = r"""
-    <boot> _____     _____ _____ _____ _____      _____ _____ _____ _____ _____ <boot>
-    <ᛒclr> <ᛒ0>      <ᛒ1>   <ᛒ2>  <ᛒ3>  <ᛒ4>       <ᛒ4>  <ᛒ3>  <ᛒ2>  <ᛒ1>  <ᛒ0>  <ᛒclr>
-    _____  [ numlk ] <ᛒtog> _____ _____ _____      _____ _____ _____ _____ _____ _____
-                     _____  _____ _____ _____      _____ _____ _____ _____
+layer / "adj" / label("ADJ") / r"""
+    <⚙>    _____     _____   _____ _____ _____      _____ _____ _____ _____ _____ <⚙>
+    <ᛒclr> <ᛒ0>      <ᛒ1>    <ᛒ2>  <ᛒ3>  <ᛒ4>       <ᛒ4>  <ᛒ3>  <ᛒ2>  <ᛒ1>  <ᛒ0>  <ᛒclr>
+    _____  [ nlck ]  <usb/ᛒ> _____ _____ _____      _____ _____ _____ _____ _____ _____
+                     _____   _____ _____ _____      _____ _____ _____ _____
     """
 
-sym2 = swap(sym, [0,1,2])
+# Generate files -------
+
+build_keymap("marz44w_inc.keymap")
+build_transform("marz44w_transform_inc.dtsi")
+build_layout_json("marz44w_layout.json")
+build_layout_svg("marz44w_layout.svg")

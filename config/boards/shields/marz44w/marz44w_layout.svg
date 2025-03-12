@@ -1,0 +1,4599 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <svg
+        width="350.88mm"
+        height="932.535mm"
+        viewBox="0 0 350.88 932.535"
+        version="1.1"
+        id="svg1"
+        inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+        sodipodi:docname="LAYOUT.svg"
+        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:svg="http://www.w3.org/2000/svg">
+        <sodipodi:namedview
+            id="namedview1"
+            pagecolor="#ffffff"
+            bordercolor="#000000"
+            borderopacity="0.25"
+            inkscape:showpageshadow="2"
+            inkscape:pageopacity="0.0"
+            inkscape:pagecheckerboard="0"
+            inkscape:deskcolor="#d1d1d1"
+            inkscape:document-units="mm"
+            inkscape:current-layer="keys" />
+        <defs
+            id="defs1" />
+        <g
+            inkscape:label="keys"
+            inkscape:groupmode="layer"
+            id="keys">
+            
+<g transform="translate(10, 10)">
+
+            <text x="0" y="0"
+                style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+                <tspan
+                    sodipodi:role="line"
+                    x="0"
+                    y="0"><![CDATA[Layer: def (0)]]></tspan>
+            </text>
+    
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 15.75) " id="def-0-0">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="9.0"
+            id="def-0-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-0-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="9.0"><![CDATA[⌘]]></tspan>
+                
+            <tspan
+                sodipodi:role="line"
+                id="def-0-0-tspan1"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="15.0"><![CDATA[esc]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 15.75) " id="def-0-1">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-0-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[q]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 5.25) " id="def-0-2">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-0-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[w]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 0) " id="def-0-3">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-0-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 7.35) " id="def-0-4">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-0-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[p]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 9.450000000000001) " id="def-0-5">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-0-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[b]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 9.450000000000001) " id="def-0-6">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-0-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[j]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 7.35) " id="def-0-7">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-0-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[l]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 0) " id="def-0-8">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-0-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[u]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 5.25) " id="def-0-9">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-0-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[y]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 15.75) " id="def-0-10">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-0-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[acut]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 15.75) " id="def-0-11">
+            <rect rx="2.28" ry="2.28"
+                id="def-0-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-0-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-0-11-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ñ]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 36.75) " id="def-1-0">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="9.0"
+            id="def-1-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-0-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="9.0"><![CDATA[⎇]]></tspan>
+                
+            <tspan
+                sodipodi:role="line"
+                id="def-1-0-tspan1"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="15.0"><![CDATA[tab]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 36.75) " id="def-1-1">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="9.0"
+            id="def-1-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="9.0"><![CDATA[⇧]]></tspan>
+                
+            <tspan
+                sodipodi:role="line"
+                id="def-1-1-tspan1"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="15.0"><![CDATA[a]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 26.25) " id="def-1-2">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-1-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[r]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 21) " id="def-1-3">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-1-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[s]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 28.35) " id="def-1-4">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-1-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[t]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 30.45) " id="def-1-5">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-1-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[g]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 30.45) " id="def-1-6">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-1-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[m]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 28.35) " id="def-1-7">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-1-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[n]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 21) " id="def-1-8">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-1-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[e]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 26.25) " id="def-1-9">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-1-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[i]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 36.75) " id="def-1-10">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="9.0"
+            id="def-1-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="9.0"><![CDATA[⇧]]></tspan>
+                
+            <tspan
+                sodipodi:role="line"
+                id="def-1-10-tspan1"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="15.0"><![CDATA[o]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 36.75) " id="def-1-11">
+            <rect rx="2.28" ry="2.28"
+                id="def-1-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-1-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-1-11-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[cw]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 57.75) " id="def-2-0">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="9.0"
+            id="def-2-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-0-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="9.0"><![CDATA[⎈]]></tspan>
+                
+            <tspan
+                sodipodi:role="line"
+                id="def-2-0-tspan1"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="15.0"><![CDATA[\]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 57.75) " id="def-2-1">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-2-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[z]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 47.25) " id="def-2-2">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-2-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[x]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 42) " id="def-2-3">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-2-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[c]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 49.35) " id="def-2-4">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-2-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[d]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 51.45) " id="def-2-5">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-2-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[v]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 51.45) " id="def-2-6">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-2-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[k]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 49.35) " id="def-2-7">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-2-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[h]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 42) " id="def-2-8">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-2-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[,]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 47.25) " id="def-2-9">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-2-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[.]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 57.75) " id="def-2-10">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-2-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[;]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 57.75) " id="def-2-11">
+            <rect rx="2.28" ry="2.28"
+                id="def-2-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-2-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-2-11-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[⏎]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(81.89999999999999, 73.5) rotate(10,0,0)" id="def-3-2">
+            <rect rx="2.28" ry="2.28"
+                id="def-3-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="9.0"
+            id="def-3-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-3-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="9.0"><![CDATA[num]]></tspan>
+                
+            <tspan
+                sodipodi:role="line"
+                id="def-3-2-tspan1"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="15.0"><![CDATA[tab]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105.0, 77.7) rotate(18,0,0)" id="def-3-3">
+            <rect rx="2.28" ry="2.28"
+                id="def-3-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="9.0"
+            id="def-3-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-3-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="9.0"><![CDATA[sym]]></tspan>
+                
+            <tspan
+                sodipodi:role="line"
+                id="def-3-3-tspan1"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="15.0"><![CDATA[⌫]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(128.1, 86.1) rotate(27,0,0)" id="def-3-4">
+            <rect rx="2.28" ry="2.28"
+                id="def-3-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="9.0"
+            id="def-3-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-3-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="9.0"><![CDATA[nav]]></tspan>
+                
+            <tspan
+                sodipodi:role="line"
+                id="def-3-4-tspan1"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="15.0"><![CDATA[␣]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(149.1, 96.6) rotate(32,0,0)" id="def-3-5">
+            <rect rx="2.28" ry="2.28"
+                id="def-3-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-3-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-3-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[⇧⎇]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(176.4, 101.85) rotate(-32,9,0)" id="def-3-6">
+            <rect rx="2.28" ry="2.28"
+                id="def-3-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="def-3-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-3-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[r⎇]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(196.35, 90.3) rotate(-27,10,0)" id="def-3-7">
+            <rect rx="2.28" ry="2.28"
+                id="def-3-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="9.0"
+            id="def-3-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-3-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="9.0"><![CDATA[nav]]></tspan>
+                
+            <tspan
+                sodipodi:role="line"
+                id="def-3-7-tspan1"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="15.0"><![CDATA[␣]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(217.35, 80.85000000000001) rotate(-18.5,11,0)" id="def-3-8">
+            <rect rx="2.28" ry="2.28"
+                id="def-3-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="9.0"
+            id="def-3-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-3-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="9.0"><![CDATA[sym]]></tspan>
+                
+            <tspan
+                sodipodi:role="line"
+                id="def-3-8-tspan1"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="15.0"><![CDATA[⌫]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(239.4, 74.55) rotate(-10,12,0)" id="def-3-9">
+            <rect rx="2.28" ry="2.28"
+                id="def-3-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="9.0"
+            id="def-3-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="def-3-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="9.0"><![CDATA[adj]]></tspan>
+                
+            <tspan
+                sodipodi:role="line"
+                id="def-3-9-tspan1"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="15.0"><![CDATA[del]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g></g>
+<g transform="translate(10, 200.85)">
+
+            <text x="0" y="0"
+                style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+                <tspan
+                    sodipodi:role="line"
+                    x="0"
+                    y="0"><![CDATA[Layer: num (1)]]></tspan>
+            </text>
+    
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 15.75) " id="num-0-0">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="num-0-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 15.75) " id="num-0-1">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-0-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-0-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[*]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 5.25) " id="num-0-2">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-0-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-0-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[7]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 0) " id="num-0-3">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-0-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-0-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[8]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 7.35) " id="num-0-4">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-0-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-0-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[9]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 9.450000000000001) " id="num-0-5">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-0-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-0-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[/]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 9.450000000000001) " id="num-0-6">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-0-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-0-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[/]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 7.35) " id="num-0-7">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-0-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-0-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[7]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 0) " id="num-0-8">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-0-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-0-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[8]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 5.25) " id="num-0-9">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-0-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-0-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[9]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 15.75) " id="num-0-10">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-0-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-0-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[*]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 15.75) " id="num-0-11">
+            <rect rx="2.28" ry="2.28"
+                id="num-0-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-0-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-0-11-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[∴]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 36.75) " id="num-1-0">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-0-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[,]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 36.75) " id="num-1-1">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[0]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 26.25) " id="num-1-2">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[4]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 21) " id="num-1-3">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[5]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 28.35) " id="num-1-4">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[6]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 30.45) " id="num-1-5">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[-]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 30.45) " id="num-1-6">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[-]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 28.35) " id="num-1-7">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[4]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 21) " id="num-1-8">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[5]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 26.25) " id="num-1-9">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[6]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 36.75) " id="num-1-10">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[0]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 36.75) " id="num-1-11">
+            <rect rx="2.28" ry="2.28"
+                id="num-1-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-1-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-1-11-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[,]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 57.75) " id="num-2-0">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-2-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-2-0-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[zw]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 57.75) " id="num-2-1">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-2-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-2-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[.]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 47.25) " id="num-2-2">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-2-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-2-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[1]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 42) " id="num-2-3">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-2-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-2-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[2]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 49.35) " id="num-2-4">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-2-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-2-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[3]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 51.45) " id="num-2-5">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-2-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-2-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[+]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 51.45) " id="num-2-6">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-2-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-2-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[+]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 49.35) " id="num-2-7">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-2-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-2-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[1]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 42) " id="num-2-8">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-2-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-2-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[2]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 47.25) " id="num-2-9">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-2-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-2-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[3]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 57.75) " id="num-2-10">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="num-2-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="num-2-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[.]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 57.75) " id="num-2-11">
+            <rect rx="2.28" ry="2.28"
+                id="num-2-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="num-2-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(81.89999999999999, 73.5) rotate(10,0,0)" id="num-3-2">
+            <rect rx="2.28" ry="2.28"
+                id="num-3-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="num-3-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105.0, 77.7) rotate(18,0,0)" id="num-3-3">
+            <rect rx="2.28" ry="2.28"
+                id="num-3-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="num-3-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(128.1, 86.1) rotate(27,0,0)" id="num-3-4">
+            <rect rx="2.28" ry="2.28"
+                id="num-3-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="num-3-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(149.1, 96.6) rotate(32,0,0)" id="num-3-5">
+            <rect rx="2.28" ry="2.28"
+                id="num-3-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="num-3-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(176.4, 101.85) rotate(-32,9,0)" id="num-3-6">
+            <rect rx="2.28" ry="2.28"
+                id="num-3-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="num-3-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(196.35, 90.3) rotate(-27,10,0)" id="num-3-7">
+            <rect rx="2.28" ry="2.28"
+                id="num-3-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="num-3-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(217.35, 80.85000000000001) rotate(-18.5,11,0)" id="num-3-8">
+            <rect rx="2.28" ry="2.28"
+                id="num-3-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="num-3-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(239.4, 74.55) rotate(-10,12,0)" id="num-3-9">
+            <rect rx="2.28" ry="2.28"
+                id="num-3-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="num-3-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g></g>
+<g transform="translate(10, 391.7)">
+
+            <text x="0" y="0"
+                style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+                <tspan
+                    sodipodi:role="line"
+                    x="0"
+                    y="0"><![CDATA[Layer: sym (2)]]></tspan>
+            </text>
+    
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 15.75) " id="sym-0-0">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-0-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[|]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 15.75) " id="sym-0-1">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[!]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 5.25) " id="sym-0-2">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA["]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 0) " id="sym-0-3">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[#]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 7.35) " id="sym-0-4">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[$]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 9.450000000000001) " id="sym-0-5">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[%]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 9.450000000000001) " id="sym-0-6">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[&]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 7.35) " id="sym-0-7">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[/]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 0) " id="sym-0-8">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[[]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 5.25) " id="sym-0-9">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[]]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 15.75) " id="sym-0-10">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[=]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 15.75) " id="sym-0-11">
+            <rect rx="2.28" ry="2.28"
+                id="sym-0-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-0-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-0-11-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[?]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 36.75) " id="sym-1-0">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-1-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-1-0-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[grv]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 36.75) " id="sym-1-1">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-1-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-1-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[*]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 26.25) " id="sym-1-2">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-1-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-1-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[']]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 21) " id="sym-1-3">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-1-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-1-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[:]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 28.35) " id="sym-1-4">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-1-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-1-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[_]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 30.45) " id="sym-1-5">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-1-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-1-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[-]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 30.45) " id="sym-1-6">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-1-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-1-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[-]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 28.35) " id="sym-1-7">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-1-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-1-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[(]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 21) " id="sym-1-8">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-1-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-1-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[)]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 26.25) " id="sym-1-9">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-1-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-1-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[{]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 36.75) " id="sym-1-10">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-1-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-1-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[}]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 36.75) " id="sym-1-11">
+            <rect rx="2.28" ry="2.28"
+                id="sym-1-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="sym-1-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 57.75) " id="sym-2-0">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-2-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-2-0-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[diae]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 57.75) " id="sym-2-1">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-2-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-2-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[@]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 47.25) " id="sym-2-2">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-2-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-2-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[~]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 42) " id="sym-2-3">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-2-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-2-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[^]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 49.35) " id="sym-2-4">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-2-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-2-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[=]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 51.45) " id="sym-2-5">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-2-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-2-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[+]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 51.45) " id="sym-2-6">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-2-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-2-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[+]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 49.35) " id="sym-2-7">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-2-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-2-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[']]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 42) " id="sym-2-8">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-2-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-2-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[<]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 47.25) " id="sym-2-9">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-2-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-2-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[>]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 57.75) " id="sym-2-10">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-2-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-2-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[\]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 57.75) " id="sym-2-11">
+            <rect rx="2.28" ry="2.28"
+                id="sym-2-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="sym-2-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(81.89999999999999, 73.5) rotate(10,0,0)" id="sym-3-2">
+            <rect rx="2.28" ry="2.28"
+                id="sym-3-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-3-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-3-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[adj]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105.0, 77.7) rotate(18,0,0)" id="sym-3-3">
+            <rect rx="2.28" ry="2.28"
+                id="sym-3-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="sym-3-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(128.1, 86.1) rotate(27,0,0)" id="sym-3-4">
+            <rect rx="2.28" ry="2.28"
+                id="sym-3-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="sym-3-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(149.1, 96.6) rotate(32,0,0)" id="sym-3-5">
+            <rect rx="2.28" ry="2.28"
+                id="sym-3-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="sym-3-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(176.4, 101.85) rotate(-32,9,0)" id="sym-3-6">
+            <rect rx="2.28" ry="2.28"
+                id="sym-3-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="sym-3-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(196.35, 90.3) rotate(-27,10,0)" id="sym-3-7">
+            <rect rx="2.28" ry="2.28"
+                id="sym-3-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="sym-3-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(217.35, 80.85000000000001) rotate(-18.5,11,0)" id="sym-3-8">
+            <rect rx="2.28" ry="2.28"
+                id="sym-3-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="sym-3-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="sym-3-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[num~]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(239.4, 74.55) rotate(-10,12,0)" id="sym-3-9">
+            <rect rx="2.28" ry="2.28"
+                id="sym-3-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="sym-3-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g></g>
+<g transform="translate(10, 582.55)">
+
+            <text x="0" y="0"
+                style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+                <tspan
+                    sodipodi:role="line"
+                    x="0"
+                    y="0"><![CDATA[Layer: nav (3)]]></tspan>
+            </text>
+    
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 15.75) " id="nav-0-0">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-0-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 15.75) " id="nav-0-1">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-0-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-0-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f1]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 5.25) " id="nav-0-2">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-0-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-0-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f2]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 0) " id="nav-0-3">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-0-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-0-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f3]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 7.35) " id="nav-0-4">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-0-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-0-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f4]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 9.450000000000001) " id="nav-0-5">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-0-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-0-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f5]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 9.450000000000001) " id="nav-0-6">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-0-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 7.35) " id="nav-0-7">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-0-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-0-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[pgup]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 0) " id="nav-0-8">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-0-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-0-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[↑]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 5.25) " id="nav-0-9">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-0-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-0-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[pgdn]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 15.75) " id="nav-0-10">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-0-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-0-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f10]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 15.75) " id="nav-0-11">
+            <rect rx="2.28" ry="2.28"
+                id="nav-0-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-0-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-0-11-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f11]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 36.75) " id="nav-1-0">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-1-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 36.75) " id="nav-1-1">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-1-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-1-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[⇧]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 26.25) " id="nav-1-2">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-1-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-1-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[']]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 21) " id="nav-1-3">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-1-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-1-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[:]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 28.35) " id="nav-1-4">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-1-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-1-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[_]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 30.45) " id="nav-1-5">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-1-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-1-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[-]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 30.45) " id="nav-1-6">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-1-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-1-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[home]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 28.35) " id="nav-1-7">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-1-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-1-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[←]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 21) " id="nav-1-8">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-1-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-1-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[↓]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 26.25) " id="nav-1-9">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-1-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-1-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[→]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 36.75) " id="nav-1-10">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-1-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-1-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[end]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 36.75) " id="nav-1-11">
+            <rect rx="2.28" ry="2.28"
+                id="nav-1-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-1-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-1-11-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f12]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 57.75) " id="nav-2-0">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-2-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 57.75) " id="nav-2-1">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-2-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-2-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f6]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 47.25) " id="nav-2-2">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-2-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-2-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f7]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 42) " id="nav-2-3">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-2-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-2-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f8]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 49.35) " id="nav-2-4">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-2-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-2-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f9]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 51.45) " id="nav-2-5">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-2-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-2-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[f10]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 51.45) " id="nav-2-6">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-2-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-2-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[⎈home]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 49.35) " id="nav-2-7">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-2-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-2-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[⎈←]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 42) " id="nav-2-8">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-2-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-2-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[XXX]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 47.25) " id="nav-2-9">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-2-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-2-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[⎈→]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 57.75) " id="nav-2-10">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="nav-2-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="nav-2-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[⎈end]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 57.75) " id="nav-2-11">
+            <rect rx="2.28" ry="2.28"
+                id="nav-2-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-2-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(81.89999999999999, 73.5) rotate(10,0,0)" id="nav-3-2">
+            <rect rx="2.28" ry="2.28"
+                id="nav-3-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-3-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105.0, 77.7) rotate(18,0,0)" id="nav-3-3">
+            <rect rx="2.28" ry="2.28"
+                id="nav-3-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-3-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(128.1, 86.1) rotate(27,0,0)" id="nav-3-4">
+            <rect rx="2.28" ry="2.28"
+                id="nav-3-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-3-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(149.1, 96.6) rotate(32,0,0)" id="nav-3-5">
+            <rect rx="2.28" ry="2.28"
+                id="nav-3-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-3-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(176.4, 101.85) rotate(-32,9,0)" id="nav-3-6">
+            <rect rx="2.28" ry="2.28"
+                id="nav-3-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-3-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(196.35, 90.3) rotate(-27,10,0)" id="nav-3-7">
+            <rect rx="2.28" ry="2.28"
+                id="nav-3-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-3-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(217.35, 80.85000000000001) rotate(-18.5,11,0)" id="nav-3-8">
+            <rect rx="2.28" ry="2.28"
+                id="nav-3-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-3-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(239.4, 74.55) rotate(-10,12,0)" id="nav-3-9">
+            <rect rx="2.28" ry="2.28"
+                id="nav-3-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="nav-3-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g></g>
+<g transform="translate(10, 773.4)">
+
+            <text x="0" y="0"
+                style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+                <tspan
+                    sodipodi:role="line"
+                    x="0"
+                    y="0"><![CDATA[Layer: adj (4)]]></tspan>
+            </text>
+    
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 15.75) " id="adj-0-0">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-0-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-0-0-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[⚙]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 15.75) " id="adj-0-1">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-0-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 5.25) " id="adj-0-2">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-0-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 0) " id="adj-0-3">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-0-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 7.35) " id="adj-0-4">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-0-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 9.450000000000001) " id="adj-0-5">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-0-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 9.450000000000001) " id="adj-0-6">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-0-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 7.35) " id="adj-0-7">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-0-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 0) " id="adj-0-8">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-0-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 5.25) " id="adj-0-9">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-0-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 15.75) " id="adj-0-10">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-0-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 15.75) " id="adj-0-11">
+            <rect rx="2.28" ry="2.28"
+                id="adj-0-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-0-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-0-11-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[⚙]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 36.75) " id="adj-1-0">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-0-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒclr]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 36.75) " id="adj-1-1">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒ0]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 26.25) " id="adj-1-2">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒ1]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 21) " id="adj-1-3">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-3-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒ2]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 28.35) " id="adj-1-4">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-4-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒ3]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 30.45) " id="adj-1-5">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-5-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒ4]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 30.45) " id="adj-1-6">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-6-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒ4]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 28.35) " id="adj-1-7">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-7-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒ3]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 21) " id="adj-1-8">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-8-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒ2]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 26.25) " id="adj-1-9">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-9-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒ1]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 36.75) " id="adj-1-10">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-10-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒ0]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 36.75) " id="adj-1-11">
+            <rect rx="2.28" ry="2.28"
+                id="adj-1-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-1-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-1-11-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[ᛒclr]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(0, 57.75) " id="adj-2-0">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-0-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-2-0-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(21, 57.75) " id="adj-2-1">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-1-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-2-1-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-2-1-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[nlck]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(42, 47.25) " id="adj-2-2">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="12.0"
+            id="adj-2-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+            <tspan
+                sodipodi:role="line"
+                id="adj-2-2-tspan0"
+                style="text-align:center;text-anchor:middle"
+                x="9.5"
+                y="12.0"><![CDATA[usb/ᛒ]]></tspan>
+                
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(63, 42) " id="adj-2-3">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-2-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(84, 49.35) " id="adj-2-4">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-2-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105, 51.45) " id="adj-2-5">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-2-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(210, 51.45) " id="adj-2-6">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-2-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(231, 49.35) " id="adj-2-7">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-2-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(252, 42) " id="adj-2-8">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-2-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(273, 47.25) " id="adj-2-9">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-2-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(294, 57.75) " id="adj-2-10">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-10-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-2-10-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(315, 57.75) " id="adj-2-11">
+            <rect rx="2.28" ry="2.28"
+                id="adj-2-11-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-2-11-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(81.89999999999999, 73.5) rotate(10,0,0)" id="adj-3-2">
+            <rect rx="2.28" ry="2.28"
+                id="adj-3-2-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-3-2-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(105.0, 77.7) rotate(18,0,0)" id="adj-3-3">
+            <rect rx="2.28" ry="2.28"
+                id="adj-3-3-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-3-3-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(128.1, 86.1) rotate(27,0,0)" id="adj-3-4">
+            <rect rx="2.28" ry="2.28"
+                id="adj-3-4-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-3-4-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(149.1, 96.6) rotate(32,0,0)" id="adj-3-5">
+            <rect rx="2.28" ry="2.28"
+                id="adj-3-5-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-3-5-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(176.4, 101.85) rotate(-32,9,0)" id="adj-3-6">
+            <rect rx="2.28" ry="2.28"
+                id="adj-3-6-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-3-6-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(196.35, 90.3) rotate(-27,10,0)" id="adj-3-7">
+            <rect rx="2.28" ry="2.28"
+                id="adj-3-7-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-3-7-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(217.35, 80.85000000000001) rotate(-18.5,11,0)" id="adj-3-8">
+            <rect rx="2.28" ry="2.28"
+                id="adj-3-8-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-3-8-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g>
+<g transform="translate(0, 20)">
+        <g transform="translate(239.4, 74.55) rotate(-10,12,0)" id="adj-3-9">
+            <rect rx="2.28" ry="2.28"
+                id="adj-3-9-key"
+                width="19" height="19"
+                style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.0989653;stroke-dasharray:none" />
+            
+        <text x="9.5" y="15.0"
+            id="adj-3-9-text"
+            style="font-size:5px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none">
+            
+        </text>
+        
+        </g>
+    </g></g>
+        </g>
+        <!--
+        <g
+            inkscape:label="boundaries"
+            inkscape:groupmode="layer"
+            id="boundaries">
+            <rect id="draw-boundaries"
+                x="0" y="0"
+                width="344" height="914.25"
+                style="fill:none;stroke:#C0C0C0;stroke-width=0.09;" />
+        </g>
+        -->
+    </svg>
