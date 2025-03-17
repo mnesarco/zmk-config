@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Frank David Martínez Muñoz <mnesarco>
+# SPDX-License-Identifier: MIT
+
 if SHIELD_MARZ44W_DONGLE
 
 config ZMK_KEYBOARD_NAME

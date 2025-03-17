@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Frank David Martínez Muñoz <mnesarco>
+ * SPDX-License-Identifier: MIT
+ */
+
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
