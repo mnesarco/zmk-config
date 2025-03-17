@@ -2,6 +2,8 @@
 
 Yet another Split Keyboard.
 
+![picture](pic1.jpeg)
+
 ## Features
 
 - Wireless Split
