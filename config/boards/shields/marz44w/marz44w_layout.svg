@@ -26,9 +26,18 @@
         <defs
             id="defs1" />
         <g
-            inkscape:label="keys"
+            inkscape:label="boundaries"
             inkscape:groupmode="layer"
-            id="keys">
+            id="boundaries">
+            <rect id="draw-boundaries"
+                x="0" y="0"
+                width="350.88" height="932.535"
+                style="fill:#ffffff;stroke:none;stroke-width=0.0;" />
+        </g>
+        <g
+            inkscape:label="layouts"
+            inkscape:groupmode="layer"
+            id="layouts">
             
 <g transform="translate(10, 10)">
 
@@ -4585,15 +4594,4 @@
         </g>
     </g></g>
         </g>
-        <!--
-        <g
-            inkscape:label="boundaries"
-            inkscape:groupmode="layer"
-            id="boundaries">
-            <rect id="draw-boundaries"
-                x="0" y="0"
-                width="344" height="914.25"
-                style="fill:none;stroke:#C0C0C0;stroke-width=0.09;" />
-        </g>
-        -->
     </svg>
