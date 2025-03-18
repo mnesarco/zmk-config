@@ -1,0 +1,205 @@
+layout: {zmk_keyboard: marz44w}
+layers:
+  DEF:
+  - - {t: ESC, h: LGUI}
+    - Q
+    - W
+    - F
+    - P
+    - B
+    - J
+    - L
+    - U
+    - Y
+    - '['
+    - ;
+  - - {t: TAB, h: LALT}
+    - {t: A, h: LSHIFT}
+    - R
+    - S
+    - T
+    - G
+    - M
+    - AltGr+N
+    - E
+    - I
+    - {t: O, h: LSHIFT}
+    - '&caps_word'
+  - - {t: AltGr+-, h: LCTRL}
+    - Z
+    - X
+    - C
+    - D
+    - V
+    - K
+    - H
+    - ','
+    - .
+    - Sft+,
+    - RET
+  - - {t: TAB, h: NUM}
+    - {t: BSPC, h: SYM1}
+    - {t: SPC, h: NAV}
+    - Sft+LALT
+    - RALT
+    - {t: SPC, h: NAV}
+    - {t: BSPC, h: SYM1}
+    - {t: DEL, h: ADJ}
+  NUM:
+  - - {t: ▽, type: trans}
+    - Sft+}
+    - '7'
+    - '8'
+    - '9'
+    - Sft+7
+    - Sft+7
+    - '7'
+    - '8'
+    - '9'
+    - Sft+}
+    - {t: '&t3p_ucl', s: '&t3p_ucu'}
+  - [',', '0', '4', '5', '6', /, /, '4', '5', '6', '0', ',']
+  - - Ctl+Alt+DOWN
+    - .
+    - '1'
+    - '2'
+    - '3'
+    - ']'
+    - ']'
+    - '1'
+    - '2'
+    - '3'
+    - .
+    - {t: ▽, type: trans}
+  - - {type: held}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+  SYM1:
+  - ['`', Sft+1, Sft+2, Sft+3, Sft+4, Sft+5, Sft+6, Sft+7, Sft+', Sft+#, Sft+0, Sft+-]
+  - - '`'
+    - Sft+}
+    - '-'
+    - Sft+.
+    - Sft+/
+    - /
+    - /
+    - Sft+8
+    - Sft+9
+    - ''''
+    - '#'
+    - {t: ▽, type: trans}
+  - - Sft+{
+    - AltGr+Q
+    - AltGr+]
+    - AltGr+'
+    - Sft+0
+    - ']'
+    - ']'
+    - '-'
+    - NUBS
+    - Sft+NUBS
+    - AltGr+-
+    - {t: ▽, type: trans}
+  - - ADJ
+    - {type: held}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: NUM, h: sticky}
+    - {t: ▽, type: trans}
+  NAV:
+  - - {t: ▽, type: trans}
+    - F1
+    - F2
+    - F3
+    - F4
+    - F5
+    - {t: ▽, type: trans}
+    - PG UP
+    - UP
+    - PG UP
+    - F10
+    - F11
+  - - {t: ▽, type: trans}
+    - LSHIFT
+    - '-'
+    - Sft+.
+    - Sft+/
+    - /
+    - HOME
+    - LEFT
+    - DOWN
+    - RIGHT
+    - END
+    - F12
+  - - {t: ▽, type: trans}
+    - F6
+    - F7
+    - F8
+    - F9
+    - F10
+    - Ctl+HOME
+    - Ctl+LEFT
+    - ''
+    - Ctl+RIGHT
+    - Ctl+END
+    - {t: ▽, type: trans}
+  - - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {type: held}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+  ADJ:
+  - - '&bootloader'
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - '&bootloader'
+  - - BT CLR
+    - {t: BT, h: '0'}
+    - {t: BT, h: '1'}
+    - {t: BT, h: '2'}
+    - {t: BT, h: '3'}
+    - {t: BT, h: '4'}
+    - {t: BT, h: '4'}
+    - {t: BT, h: '3'}
+    - {t: BT, h: '2'}
+    - {t: BT, h: '1'}
+    - {t: BT, h: '0'}
+    - BT CLR
+  - - {t: ▽, type: trans}
+    - KP NLCK
+    - OUT TOG
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+  - - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {type: held}

@@ -12,6 +12,7 @@ from zkeymap import (
     build_transform,
     build_layout_json,
     build_layout_svg,
+    build_layout_svg_drawer,
     layout,
     keys,   # Import base key definitions
     keys_la # Import Language specific keys (Latam)
@@ -73,4 +74,19 @@ layer / "adj" / label("ADJ") / r"""
 build_keymap("marz44w_inc.keymap")
 build_transform("marz44w_transform_inc.dtsi")
 build_layout_json("marz44w_layout.json")
+
+# Svg with built-in generator
 build_layout_svg("marz44w_layout.svg")
+
+# +--------------------------------------------+
+# | Svg with external tool (keymap-drawer)     |
+# | This requires installing keymap-drawer:    |
+# | ```                                        |
+# | pip install keymap-drawer                  |
+# | ```                                        |
+# +--------------------------------------------+
+build_layout_svg_drawer(
+    svg_file="marz44w_layout_drawer.svg",
+    keymap_file="marz44w.keymap",
+    layout_json_file="marz44w_layout.json"
+)
