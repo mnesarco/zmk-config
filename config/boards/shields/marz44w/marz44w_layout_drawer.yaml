@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: marz44w}
 layers:
   DEF:
-  - - {t: ESC, h: LGUI}
+  - - {t: esc, h: ⌘}
     - Q
     - W
     - F
@@ -11,21 +11,21 @@ layers:
     - L
     - U
     - Y
-    - '['
-    - ;
-  - - {t: TAB, h: LALT}
-    - {t: A, h: LSHIFT}
+    - ´
+    - ñ
+  - - {t: ⇄, h: ⎇}
+    - {t: A, h: ⇧}
     - R
     - S
     - T
     - G
     - M
-    - AltGr+N
+    - n
     - E
     - I
-    - {t: O, h: LSHIFT}
-    - '&caps_word'
-  - - {t: AltGr+-, h: LCTRL}
+    - {t: O, h: ⇧}
+    - cw
+  - - {t: \, h: ⎈}
     - Z
     - X
     - C
@@ -35,37 +35,37 @@ layers:
     - H
     - ','
     - .
-    - Sft+,
-    - RET
-  - - {t: TAB, h: NUM}
-    - {t: BSPC, h: SYM1}
-    - {t: SPC, h: NAV}
-    - Sft+LALT
-    - RALT
-    - {t: SPC, h: NAV}
-    - {t: BSPC, h: SYM1}
-    - {t: DEL, h: ADJ}
+    - ;
+    - ⏎
+  - - {t: ⇄, h: NUM}
+    - {t: ⌫, h: SYM1}
+    - {t: ␣, h: NAV}
+    - ⇧+⎇
+    - r⎇
+    - {t: ␣, h: NAV}
+    - {t: ⌫, h: SYM1}
+    - {t: del, h: ADJ}
   NUM:
   - - {t: ▽, type: trans}
-    - Sft+}
+    - '*'
     - '7'
     - '8'
     - '9'
-    - Sft+7
-    - Sft+7
+    - /
+    - /
     - '7'
     - '8'
     - '9'
-    - Sft+}
-    - {t: '&t3p_ucl', s: '&t3p_ucu'}
-  - [',', '0', '4', '5', '6', /, /, '4', '5', '6', '0', ',']
-  - - Ctl+Alt+DOWN
+    - '*'
+    - ∴
+  - [',', '0', '4', '5', '6', '-', '-', '4', '5', '6', '0', ',']
+  - - zw
     - .
     - '1'
     - '2'
     - '3'
-    - ']'
-    - ']'
+    - +
+    - +
     - '1'
     - '2'
     - '3'
@@ -80,30 +80,30 @@ layers:
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
   SYM1:
-  - ['`', Sft+1, Sft+2, Sft+3, Sft+4, Sft+5, Sft+6, Sft+7, Sft+', Sft+#, Sft+0, Sft+-]
-  - - '`'
-    - Sft+}
-    - '-'
-    - Sft+.
-    - Sft+/
-    - /
-    - /
-    - Sft+8
-    - Sft+9
+  - ['|', '!', '"', '#', $, '%', '&', /, '[', '\]', '=', '?']
+  - - '|'
+    - '*'
     - ''''
-    - '#'
-    - {t: ▽, type: trans}
-  - - Sft+{
-    - AltGr+Q
-    - AltGr+]
-    - AltGr+'
-    - Sft+0
-    - ']'
-    - ']'
+    - ':'
+    - _
     - '-'
-    - NUBS
-    - Sft+NUBS
-    - AltGr+-
+    - '-'
+    - (
+    - )
+    - '{'
+    - '}'
+    - {t: ▽, type: trans}
+  - - diae
+    - '@'
+    - '~'
+    - ^
+    - '='
+    - +
+    - +
+    - ''''
+    - <
+    - '>'
+    - \
     - {t: ▽, type: trans}
   - - ADJ
     - {type: held}
@@ -115,40 +115,40 @@ layers:
     - {t: ▽, type: trans}
   NAV:
   - - {t: ▽, type: trans}
-    - F1
-    - F2
-    - F3
-    - F4
-    - F5
+    - f1
+    - f2
+    - f3
+    - f4
+    - f5
     - {t: ▽, type: trans}
-    - PG UP
-    - UP
-    - PG UP
-    - F10
-    - F11
+    - ⇟
+    - ↑
+    - ⇟
+    - f10
+    - f11
   - - {t: ▽, type: trans}
-    - LSHIFT
+    - ⇧
+    - ''''
+    - ':'
+    - _
     - '-'
-    - Sft+.
-    - Sft+/
-    - /
-    - HOME
-    - LEFT
-    - DOWN
-    - RIGHT
-    - END
-    - F12
+    - ↖
+    - ←
+    - ↓
+    - →
+    - ↘
+    - f12
   - - {t: ▽, type: trans}
-    - F6
-    - F7
-    - F8
-    - F9
-    - F10
-    - Ctl+HOME
-    - Ctl+LEFT
+    - f6
+    - f7
+    - f8
+    - f9
+    - f10
+    - ⎈+↖
+    - ⎈+←
     - ''
-    - Ctl+RIGHT
-    - Ctl+END
+    - ⎈+→
+    - ⎈+↘
     - {t: ▽, type: trans}
   - - {t: ▽, type: trans}
     - {t: ▽, type: trans}
@@ -159,7 +159,7 @@ layers:
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
   ADJ:
-  - - '&bootloader'
+  - - ⚙
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
@@ -170,22 +170,11 @@ layers:
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
-    - '&bootloader'
-  - - BT CLR
-    - {t: BT, h: '0'}
-    - {t: BT, h: '1'}
-    - {t: BT, h: '2'}
-    - {t: BT, h: '3'}
-    - {t: BT, h: '4'}
-    - {t: BT, h: '4'}
-    - {t: BT, h: '3'}
-    - {t: BT, h: '2'}
-    - {t: BT, h: '1'}
-    - {t: BT, h: '0'}
-    - BT CLR
+    - ⚙
+  - [ᛒclr, ᛒ0, ᛒ1, ᛒ2, ᛒ3, ᛒ4, ᛒ4, ᛒ3, ᛒ2, ᛒ1, ᛒ0, ᛒclr]
   - - {t: ▽, type: trans}
-    - KP NLCK
-    - OUT TOG
+    - nlck
+    - usb/ᛒ
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
@@ -204,6 +193,6 @@ layers:
     - {t: ▽, type: trans}
     - {type: held}
 combos:
-- p: [39, 40]
-  k: Ctl+Alt+DOWN
-  l: [NUM]
+- p: [38, 41]
+  k: zw
+  l: [DEF]

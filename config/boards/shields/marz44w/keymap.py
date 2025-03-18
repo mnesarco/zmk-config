@@ -74,7 +74,7 @@ layer / "adj" / label("ADJ") / r"""
 
 # Some combos
 
-combo / "czw" / positions(39, 40) / "[zw]" / layers("num")
+combo / "czw" / positions(38, 41) / "[zw]" / layers("def")
 
 # Generate files -------
 
