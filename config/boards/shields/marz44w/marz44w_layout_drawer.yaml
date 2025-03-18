@@ -203,3 +203,7 @@ layers:
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {type: held}
+combos:
+- p: [39, 40]
+  k: Ctl+Alt+DOWN
+  l: [NUM]

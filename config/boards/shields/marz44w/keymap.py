@@ -8,6 +8,9 @@ from zkeymap import (
     alias,
     layer,
     label,
+    combo,
+    positions,
+    layers,
     build_keymap,
     build_transform,
     build_layout_json,
@@ -68,6 +71,10 @@ layer / "adj" / label("ADJ") / r"""
     _____  [ nlck ]  <usb/ᛒ> _____ _____ _____      _____ _____ _____ _____ _____ _____
                      _____   _____ _____ _____      _____ _____ _____ _____
     """
+
+# Some combos
+
+combo / "czw" / positions(39, 40) / "[zw]" / layers("num")
 
 # Generate files -------
 
