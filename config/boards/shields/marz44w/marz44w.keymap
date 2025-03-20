@@ -9,7 +9,11 @@
 #include <dt-bindings/zmk/ext_power.h>
 #include <dt-bindings/zmk/outputs.h>
 
-&lt { quick_tap_ms = <220>; };
-&mt { quick_tap_ms = <220>; };
+#define LA_MINUS SLASH
+#define LA_UND LS(LA_MINUS)
+
+&caps_word {
+    continue-list = <LA_UND LA_MINUS>;
+};
 
 #include "marz44w_inc.keymap"
