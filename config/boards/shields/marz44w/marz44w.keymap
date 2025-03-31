@@ -16,4 +16,4 @@
     continue-list = <LA_UND LA_MINUS>;
 };
 
-#include "marz44w_inc.keymap"
+#include "marz44w_keymap.dtsi"

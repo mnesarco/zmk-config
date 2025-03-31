@@ -4,96 +4,104 @@
 # fmt: off
 
 # Import zkeymap language artifacts
-from zkeymap import (
+from zkeymap.lang import (
     alias,
     layer,
     label,
     combo,
-    positions,
-    layers,
-    build_keymap,
-    build_transform,
-    build_layout_json,
-    build_layout_svg,
-    build_layout_svg_drawer,
-    layout,
-    keys,   # Import base key definitions
-    keys_la # Import Language specific keys (Latam)
+    uc_linux_shift_ctrl_u as uc,
 )
 
+from zkeymap import     (
+    keys,   # Import base key definitions  # noqa: F401
+    keys_la, # Import Language specific keys (Latam) # noqa: F401
+)
 
 # Import or define a physical layout
 from zkeymap.layouts import marz_split_3x6_4
-layout /= marz_split_3x6_4.layout
+layout = marz_split_3x6_4.layout
 
-
-# Select Linux unicode composers
-uc = keys.UnicodeLinux
 
 # User defined aliases
-alias / "cw" /  "&caps_word"
-alias / "zw"/ "LC(LA(DOWN))" # Windows Zoom (Linux Mint)
-alias / "∴" / uc("∴", "∴", name="t3p")
+alias / "cw" / "&caps_word" / label("⇪")
+alias / "zw" / "LC(LA(DOWN))"  # Windows Zoom (Linux Mint)
+alias / "∴" / uc(name="t3p", char="∴", shifted="△")  # Fancy unicode chars
 
 # Layers -----------------
 
 layer / "def" / label("DEF") / r"""
-    {⌘ esc} [ q ] [ w ] [ f ] [ p ] [ b ]      [ j ] [ l ] [ u ] [ y ] [ acut ]    [ñ]
-    {⎇ tab} {⇧ a} [ r ] [ s ] [ t ] [ g ]      [ m ] [ n ] [ e ] [ i ] {⇧ o}      <cw>
-    {⎈  \ } [ z ] [ x ] [ c ] [ d ] [ v ]      [ k ] [ h ] [ , ] [ . ] [ ; ]     [ ⏎ ]
-          (num tab) (sym ⌫) (nav ␣) [⇧ ⎇]      [r⎇] (nav ␣) (sym ⌫) (adj del)
+    {⌘ esc}    q     w   f   p   b          j   l   u   y   acut     ñ
+    {⎇ tab}  {⇧ a}   r   s   t   g          m   n   e   i   {⇧ o}   cw
+    {⎈  \ }    z     x   c   d   v          k   h   ,   .     ;      ⏎
+
+    (num tab) (sym ⌫) (nav ␣) [⇧ ⎇]         [r⎇] (nav ␣) (sym ⌫) (adj del)
     """
 
 layer / "num" / label("NUM") / r"""
-    _____   [ * ] [ 7 ] [ 8 ] [ 9 ] [ / ]      [ / ] [ 7 ] [ 8 ] [ 9 ] [ * ] [ ∴ ]
-    [ , ]   [ 0 ] [ 4 ] [ 5 ] [ 6 ] [ - ]      [ - ] [ 4 ] [ 5 ] [ 6 ] [ 0 ] [ , ]
-    [ zw ]  [ . ] [ 1 ] [ 2 ] [ 3 ] [ + ]      [ + ] [ 1 ] [ 2 ] [ 3 ] [ . ] _____
-                  _____ _____ _____ _____      _____ _____ _____ _____
+    ▽   *   7   8   9   /         /   7   8   9   *   ∴
+    ,   0   4   5   6   -         -   4   5   6   0   ,
+    zw  .   1   2   3   +         +   1   2   3   .   ▽
+
+            ▽   ▽   ▽   ▽         ▽   ▽   ▽   ▽
     """
 
 layer / "sym" / label("SYM1") / r"""
-    [ | ]    [ ! ] [ " ] [ # ] [ $ ] [ % ]      [ & ] [ / ] [ [ ] [ \] ] [ = ] [ ? ]
-    [ grv ]  [ * ] [ ' ] [ : ] [ _ ] [ - ]      [ - ] [ ( ] [ ) ] [ {  ] [ } ] _____
-    [ diae ] [ @ ] [ ~ ] [ ^ ] [ = ] [ + ]      [ + ] [ ' ] [ < ] [ >  ] [ \ ] _____
-                   (adj) _____ _____ _____      _____ _____ (num~) _____
+    |      !   "  [#]  $   %       &     /    [ [ ]  [ \] ]    =     ?
+    grv    *   '   :   _   -       -   [ ( ]  [ ) ]  [ {  ]  [ } ]   ▽
+    diae   @   ~   ^   =   +       +     '    [ < ]  [ >  ]  [ \ ]   ▽
+
+            (adj)  ▽   ▽   ▽       ▽  ▽  (num ~) ▽
     """
 
 layer / "nav" / label("NAV") / r"""
-    _____ [ f1 ] [ f2 ] [ f3 ] [ f4 ] [ f5  ]     _____     [ pgup ] [  ↑  ] [ pgdn ] [  f10 ] [ f11 ]
-    _____ [ ⇧  ] [ '  ] [ :  ] [ _  ] [ -   ]     [  home ] [   ←  ] [  ↓  ] [   →  ] [  end ] [ f12 ]
-    _____ [ f6 ] [ f7 ] [ f8 ] [ f9 ] [ f10 ]     [ ⎈ home] [ ⎈ ←  ]  xxxxx  [ ⎈ →  ] [⎈ end ]  _____
-                      _____ _____ _____ _____     _____ _____ _____ _____
+    ▽  f1  f2  f3  f4  f5       ▽         [ pgup ]  [  ↑  ]  [ pgdn ]  [  f10 ]  [ f11 ]
+    ▽  ⇧   '   :   _   -        [ home ]  [   ←  ]  [  ↓  ]  [   →  ]  [  end ]  [ f12 ]
+    ▽  f6  f7  f8  f9  f10      [⎈ home]  [ ⎈ ←  ]   xxxxx   [ ⎈ →  ]  [⎈ end ]     ▽
+
+                   ▽ ▽ ▽ ▽     ▽ ▽ ▽ ▽
     """
 
 layer / "adj" / label("ADJ") / r"""
-    <⚙>    _____     _____   _____ _____ _____      _____ _____ _____ _____ _____ <⚙>
-    <ᛒclr> <ᛒ0>      <ᛒ1>    <ᛒ2>  <ᛒ3>  <ᛒ4>       <ᛒ4>  <ᛒ3>  <ᛒ2>  <ᛒ1>  <ᛒ0>  <ᛒclr>
-    _____  [ nlck ]  <usb/ᛒ> _____ _____ _____      _____ _____ _____ _____ _____ _____
-                     _____   _____ _____ _____      _____ _____ _____ _____
+    ⚙      ▽     ▽     ▽   ▽   ▽      ▽   ▽   ▽   ▽   ▽   ⚙
+    ᛒclr   ᛒ0    ᛒ1    ᛒ2  ᛒ3  ᛒ4     ᛒ4  ᛒ3  ᛒ2  ᛒ1  ᛒ0  ᛒclr
+    ▽      nlck  usb/ᛒ ▽   ▽   ▽      ▽   ▽   ▽   ▽   ▽   ▽
+
+                         ▽ ▽ ▽ ▽      ▽ ▽ ▽ ▽
     """
 
 # Some combos
 
-combo / "czw" / positions(38, 41) / "[zw]" / layers("def")
+combo(
+    "zw",
+    key_positions=[38, 41],
+    layers=["def"],
+)
+
 
 # Generate files -------
+from zkeymap.generators import zmk, qmk, svg, drawer
 
-build_keymap("marz44w_inc.keymap")
-build_transform("marz44w_transform_inc.dtsi")
-build_layout_json("marz44w_layout.json")
+zmk.default_transform(layout, "marz44w", name="default_transform")
+zmk.physical_layout(layout, "marz44w")
+zmk.keymap(layout, "marz44w")
 
-# Svg with built-in generator
-build_layout_svg("marz44w_layout.svg")
-
-# +--------------------------------------------+
-# | Svg with external tool (keymap-drawer)     |
-# | This requires installing keymap-drawer:    |
-# | ```                                        |
-# | pip install keymap-drawer                  |
-# | ```                                        |
-# +--------------------------------------------+
-build_layout_svg_drawer(
-    svg_file="marz44w_layout_drawer.svg",
-    keymap_file="marz44w.keymap",
-    layout_json_file="marz44w_layout.json"
+svg.layout(
+    layout,
+    "marz44w",
+    options=svg.Options(outer=True),
 )
+
+svg.layout(
+    layout,
+    "marz44w_switches.svg",
+    options=svg.Options(
+        cap=False,
+        switch=True,
+        outer=False,
+        cherry_pocket=True,
+    ),
+)
+
+drawer.svg(layout, "marz44w")
+
+qmk.info_json(layout, "marz44w")
