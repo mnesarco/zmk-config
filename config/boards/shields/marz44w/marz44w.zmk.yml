@@ -10,6 +10,7 @@ requires: [pro_micro]
 exposes: [i2c_oled]
 features:
   - keys
+  - display
 siblings:
   - marz44w_left
   - marz44w_right
