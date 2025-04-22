@@ -139,10 +139,10 @@
             // └────────────────────────────────────────────────────────────────────┘
             bindings = <
 
-                &kp GRAVE       &kp LS(N1)     &kp LS(N2)     &kp LS(N3)    &kp LS(N4)      &kp LS(N5)   &kp LS(N6)   &kp LS(N7)   &kp LS(SQT)   &kp LS(NUHS)   &kp LS(N0)      &kp LS(MINUS)   
-                &kp RA(GRAVE)   &kp LS(RBRC)   &kp MINUS      &kp LS(DOT)   &kp LS(SLASH)   &kp SLASH    &kp SLASH    &kp LS(N8)   &kp LS(N9)    &kp SQT        &kp NUHS        &trans          
-                &kp LS(LBRC)    &kp RA(Q)      &kp RA(RBKT)   &kp RA(SQT)   &kp LS(N0)      &kp RBKT     &kp RBKT     &kp MINUS    &kp NUBS      &kp LS(NUBS)   &kp RA(MINUS)   &trans          
-                                               &mo L_ADJ      &trans        &trans          &trans       &trans       &trans       &sl L_NUM     &trans                                       
+                &kp GRAVE      &kp LS(N1)     &kp LS(N2)     &kp LS(N3)    &kp LS(N4)      &kp LS(N5)   &kp LS(N6)   &kp LS(N7)   &kp LS(SQT)   &kp LS(NUHS)   &kp LS(N0)      &kp LS(MINUS)   
+                &kp RA(NUHS)   &kp LS(RBRC)   &kp MINUS      &kp LS(DOT)   &kp LS(SLASH)   &kp SLASH    &kp SLASH    &kp LS(N8)   &kp LS(N9)    &kp SQT        &kp NUHS        &trans          
+                &kp LS(LBRC)   &kp RA(Q)      &kp RA(RBKT)   &kp RA(SQT)   &kp LS(N0)      &kp RBKT     &kp RBKT     &kp MINUS    &kp NUBS      &kp LS(NUBS)   &kp RA(MINUS)   &trans          
+                                              &mo L_ADJ      &trans        &trans          &trans       &trans       &trans       &sl L_NUM     &trans                                       
             >;
         };
 
