@@ -9,6 +9,10 @@
 #define L_SYM 2
 #define L_NAV 3
 #define L_ADJ 4
+#define L_FC0 5
+#define L_FC1 6
+#define L_FCL 7
+#define L_FCR 8
 
 / {
     macros {
@@ -29,6 +33,162 @@
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&macro_tap &kp LS(LC(U)) &kp N2 &kp N5 &kp B &kp N3 &macro_tap &kp ENTER>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_0: macro_0 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LC(LA(LG(UP)))>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_1: macro_1 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LC(LA(LG(DOWN)))>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_2: macro_2 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LC(LA(LG(LEFT)))>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_3: macro_3 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LC(LA(LG(RIGHT)))>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_4: macro_4 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LC(LG(UP))>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_5: macro_5 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LC(LG(DOWN))>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_6: macro_6 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LC(LG(LEFT))>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_7: macro_7 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LC(LG(RIGHT))>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_8: macro_8 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LC(LG(W))>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_9: macro_9 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LS(LC(LG(UP)))>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_10: macro_10 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LS(LC(LG(DOWN)))>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_11: macro_11 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp V &kp F>;
 
 
         };
@@ -77,18 +237,18 @@
         def {
             display-name = "DEF";
 
-            // ┌────────────────────────────────────────────────────────────────────────┐
-            // │                                                                        │
-            // │ {⌘ esc}    q     w   f   p   b          j   l   u   y   acut     ñ     │
-            // │ {⎇ tab}  {⇧ a}   r   s   t   g          m   n   e   i   {⇧ o}   cw     │
-            // │ {⎈  \ }    z     x   c   d   v          k   h   ,   .     ;      ⏎     │
-            // │                                                                        │
-            // │ (num tab) (sym ⌫) (nav ␣) [⇧ ⎇]         [r⎇] (nav ␣) (sym ⌫) (adj del) │
-            // └────────────────────────────────────────────────────────────────────────┘
+            // ┌──────────────────────────────────────────────────────────────────────────┐
+            // │                                                                          │
+            // │ {⌘ esc}    q     w   f   p   b          j   l   u   y   acut     ñ       │
+            // │ {⎇ tab}  {⇧ a}   r   s   t   g          m   n   e   i   {⇧ o}   cw       │
+            // │ {⎈  \ }    z     x   c   d   v          k   h   ,   .     ;      ⏎       │
+            // │                                                                          │
+            // │ (num tab)  (sym ⌫)  (nav ␣)  [⇧ ⎇]     [r⎇]  (nav ␣)  (sym ⌫)  (adj del) │
+            // └──────────────────────────────────────────────────────────────────────────┘
             bindings = <
 
                 &mt LGUI ESC          &kp Q          &kp W           &kp F            &kp P           &kp B          &kp J      &kp L           &kp U            &kp Y           &kp LBKT        &kp SEMI     
-                &mt LALT TAB          &mt LSHIFT A   &kp R           &kp S            &kp T           &kp G          &kp M      &kp RA(N)       &kp E            &kp I           &mt LSHIFT O    &caps_word   
+                &mt LALT TAB          &mt LSHIFT A   &kp R           &kp S            &kp T           &kp G          &kp M      &kp N           &kp E            &kp I           &mt LSHIFT O    &caps_word   
                 &mt LCTRL RA(MINUS)   &kp Z          &kp X           &kp C            &kp D           &kp V          &kp K      &kp H           &kp COMMA        &kp DOT         &kp LS(COMMA)   &kp RET      
                                                      &lt L_NUM TAB   &lt L_SYM BSPC   &lt L_NAV SPC   &kp LS(LALT)   &kp RALT   &lt L_NAV SPC   &lt L_SYM BSPC   &lt L_ADJ DEL                              
             >;
@@ -105,18 +265,18 @@
 
             // ┌─────────────────────────────────────────────────────┐
             // │                                                     │
-            // │ ▽   *   7   8   9   /         /   7   8   9   *   ∴ │
-            // │ ,   0   4   5   6   -         -   4   5   6   0   , │
-            // │ zw  .   1   2   3   +         +   1   2   3   .   ▽ │
+            // │ ▽   ,   7   8   9   -         -   7   8   9   ,   ∴ │
+            // │ /   *   4   5   6   0         0   4   5   6   *   / │
+            // │ tab .   1   2   3   +         +   1   2   3   .   ▽ │
             // │                                                     │
-            // │         ▽   ▽   ▽   ▽         ▽   ▽   ▽   ▽         │
+            // │       ▽ (fc0 /) ▽   ▽         ▽   ▽   ▽   ▽         │
             // └─────────────────────────────────────────────────────┘
             bindings = <
 
-                &trans             &kp LS(RBRC)   &kp N7   &kp N8   &kp N9   &kp LS(N7)   &kp LS(N7)   &kp N7   &kp N8   &kp N9   &kp LS(RBRC)   &t3p        
-                &kp COMMA          &kp N0         &kp N4   &kp N5   &kp N6   &kp SLASH    &kp SLASH    &kp N4   &kp N5   &kp N6   &kp N0         &kp COMMA   
-                &kp LC(LA(DOWN))   &kp DOT        &kp N1   &kp N2   &kp N3   &kp RBKT     &kp RBKT     &kp N1   &kp N2   &kp N3   &kp DOT        &trans      
-                                                  &trans   &trans   &trans   &trans       &trans       &trans   &trans   &trans                            
+                &trans       &kp COMMA      &kp N7   &kp N8       &kp N9   &kp SLASH   &kp SLASH   &kp N7   &kp N8   &kp N9   &kp COMMA      &t3p         
+                &kp LS(N7)   &kp LS(RBRC)   &kp N4   &kp N5       &kp N6   &kp N0      &kp N0      &kp N4   &kp N5   &kp N6   &kp LS(RBRC)   &kp LS(N7)   
+                &kp TAB      &kp DOT        &kp N1   &kp N2       &kp N3   &kp RBKT    &kp RBKT    &kp N1   &kp N2   &kp N3   &kp DOT        &trans       
+                                            &trans   &tog L_FC0   &trans   &trans      &trans      &trans   &trans   &trans                             
             >;
         };
 
@@ -160,8 +320,7 @@
             // │ ▽  f1  f2  f3  f4  f5       ▽         [ pgup ]  [  ↑  ]  [ pgdn ]  [  f10 ]  [ f11 ] │
             // │ ▽  ⇧   '   :   _   -        [ home ]  [   ←  ]  [  ↓  ]  [   →  ]  [  end ]  [ f12 ] │
             // │ ▽  f6  f7  f8  f9  f10      [⎈ home]  [ ⎈ ←  ]   xxxxx   [ ⎈ →  ]  [⎈ end ]     ▽    │
-            // │                                                                                      │
-            // │                ▽ ▽ ▽ ▽     ▽ ▽ ▽ ▽                                                   │
+            // │  ▽ ▽ ▽ ▽  ▽ ▽ ▽ ▽                                                                    │
             // └──────────────────────────────────────────────────────────────────────────────────────┘
             bindings = <
 
@@ -186,8 +345,7 @@
             // │ ⚙      ▽     ▽     ▽   ▽   ▽      ▽   ▽   ▽   ▽   ▽   ⚙    │
             // │ ᛒclr   ᛒ0    ᛒ1    ᛒ2  ᛒ3  ᛒ4     ᛒ4  ᛒ3  ᛒ2  ᛒ1  ᛒ0  ᛒclr │
             // │ ▽      nlck  usb/ᛒ ▽   ▽   ▽      ▽   ▽   ▽   ▽   ▽   ▽    │
-            // │                                                            │
-            // │                      ▽ ▽ ▽ ▽      ▽ ▽ ▽ ▽                  │
+            // │  ▽ ▽ ▽ ▽  ▽ ▽ ▽ ▽                                          │
             // └────────────────────────────────────────────────────────────┘
             bindings = <
 
@@ -195,6 +353,114 @@
                 &bt BT_CLR    &bt BT_SEL 0   &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3   &bt BT_SEL 4   &bt BT_SEL 4   &bt BT_SEL 3   &bt BT_SEL 2   &bt BT_SEL 1   &bt BT_SEL 0   &bt BT_CLR    
                 &trans        &kp KP_NLCK    &out OUT_TOG   &trans         &trans         &trans         &trans         &trans         &trans         &trans         &trans         &trans        
                                              &trans         &trans         &trans         &trans         &trans         &trans         &trans         &trans                                    
+            >;
+        };
+
+
+
+
+        // ┌────────────────────────────────┐
+        // │ Layer: fc0: num=5, display=FC0 │
+        // └────────────────────────────────┘
+        fc0 {
+            display-name = "FC0";
+
+            // ┌───────────────────────────────────────────────────────┐
+            // │                                                       │
+            // │ esc  ,      7      8      9      -        ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │ /    {⌘ 0}  {⎇ 4}  {⇧ 5}  {⎈ 6}  *        ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │ tab  .      1      2      3      +        ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │                                                       │
+            // │ (fc0 /)  (fcl ⌫)  (fcr ⏎)  (fc1 tiles)                │
+            // │ ▽ ▽ ▽ ▽                                               │
+            // └───────────────────────────────────────────────────────┘
+            bindings = <
+
+                &kp ESC      &kp COMMA     &kp N7        &kp N8           &kp N9          &kp SLASH             &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp LS(N7)   &mt LGUI N0   &mt LALT N4   &mt LSHIFT N5    &mt LCTRL N6    &kp LS(RBRC)          &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp TAB      &kp DOT       &kp N1        &kp N2           &kp N3          &kp RBKT              &trans   &trans   &trans   &trans   &trans   &trans   
+                                           &tog L_FC0    &lt L_FCL BSPC   &lt L_FCR RET   &lt L_FC1 LC(LA(K))   &trans   &trans   &trans   &trans                   
+            >;
+        };
+
+
+
+
+        // ┌────────────────────────────────┐
+        // │ Layer: fc1: num=6, display=FC1 │
+        // └────────────────────────────────┘
+        fc1 {
+            display-name = "FC1";
+
+            // ┌─────────────────────────────────────────────────────────┐
+            // │                                                         │
+            // │ [⎈ ⇧ f5]  [⎈ ⇧ f6]   |↖|  |↑|  |↗|   ↥      ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │ [⎈ ⇧ f3]  [⎈ ⇧ f4]   |←|  |↓|  |→|   ↧      ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │ [⎈ ⇧ f1]  [⎈ ⇧ f2]   |↙|  |w|  |C|   VF     ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │                                                         │
+            // │ ▽ ▽ ▽ ⌽                                                 │
+            // │ ▽ ▽ ▽ ▽                                                 │
+            // └─────────────────────────────────────────────────────────┘
+            bindings = <
+
+                &kp LS(LC(F5))   &kp LS(LC(F6))   &macro_0   &macro_4   &macro_1        &macro_9    &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp LS(LC(F3))   &kp LS(LC(F4))   &macro_6   &macro_5   &macro_7        &macro_10   &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp LS(LC(F1))   &kp LS(LC(F2))   &macro_2   &macro_8   &kp LC(LG(C))   &macro_11   &trans   &trans   &trans   &trans   &trans   &trans   
+                                                  &trans     &trans     &trans          &none       &trans   &trans   &trans   &trans                   
+            >;
+        };
+
+
+
+
+        // ┌────────────────────────────────┐
+        // │ Layer: fcl: num=7, display=FCL │
+        // └────────────────────────────────┘
+        fcl {
+            display-name = "FCL";
+
+            // ┌────────────────────────────────────────────────────────────────────┐
+            // │                                                                    │
+            // │ [⎈ ⇧ f11]  [⎈ ⇧ f12]   [ > ]  [ { ]  [ }  ]  UNDO      ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │ [⎈ ⇧ f9 ]  [⎈ ⇧ f10]   [ < ]  [ ( ]  [ )  ]  REDO      ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │ [⎈ ⇧ f7 ]  [⎈ ⇧ f8 ]   [ _ ]  [ [ ]  [ \] ]  =         ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │                                                                    │
+            // │ ▽ ⌽ ▽ ▽                                                            │
+            // │ ▽ ▽ ▽ ▽                                                            │
+            // └────────────────────────────────────────────────────────────────────┘
+            bindings = <
+
+                &kp LS(LC(F11))   &kp LS(LC(F12))   &kp LS(NUBS)    &kp SQT       &kp NUHS       &kp LC(Z)       &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp LS(LC(F9))    &kp LS(LC(F10))   &kp NUBS        &kp LS(N8)    &kp LS(N9)     &kp LS(LC(Z))   &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp LS(LC(F7))    &kp LS(LC(F8))    &kp LS(SLASH)   &kp LS(SQT)   &kp LS(NUHS)   &kp LS(N0)      &trans   &trans   &trans   &trans   &trans   &trans   
+                                                    &trans          &none         &trans         &trans          &trans   &trans   &trans   &trans                   
+            >;
+        };
+
+
+
+
+        // ┌────────────────────────────────┐
+        // │ Layer: fcr: num=8, display=FCR │
+        // └────────────────────────────────┘
+        fcr {
+            display-name = "FCR";
+
+            // ┌───────────────────────────────────────────────┐
+            // │                                               │
+            // │ [⎈ f5]  [⎈ f6]   p  c  n  sel*    ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │ [⎈ f3]  [⎈ f4]   s  d  e  del     ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │ [⎈ f1]  [⎈ f2]   a  m  t  =       ▽ ▽ ▽ ▽ ▽ ▽ │
+            // │                                               │
+            // │ ▽ ▽ ⌽ ▽                                       │
+            // │ ▽ ▽ ▽ ▽                                       │
+            // └───────────────────────────────────────────────┘
+            bindings = <
+
+                &kp LC(F5)   &kp LC(F6)   &kp P    &kp C    &kp N   &kp LC(A)    &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp LC(F3)   &kp LC(F4)   &kp S    &kp D    &kp E   &kp DEL      &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp LC(F1)   &kp LC(F2)   &kp A    &kp M    &kp T   &kp LS(N0)   &trans   &trans   &trans   &trans   &trans   &trans   
+                                          &trans   &trans   &none   &trans       &trans   &trans   &trans   &trans                   
             >;
         };
 

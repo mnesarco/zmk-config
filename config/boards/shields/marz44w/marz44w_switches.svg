@@ -27,13 +27,16 @@
     }
 
     .behavior-muted .key-cap {
-        stroke: #ff0000;
+        stroke: #0080ff;
         stroke-width: 0.1;
         stroke-dasharray: 0.3, 0.3;
         stroke-dashoffset: 0;
-        fill: #fefefe;
-        opacity: 0.6;
+        fill: #efefef;
+    }
 
+    .behavior-transparent .key-tap-text {
+        fill: c0c0c0;
+        opacity: 0.3;
     }
 
     .key-switch {
@@ -80,7 +83,7 @@
             <rect x="0" y="0"
                 width="343" height="221.8"
                 class="background-box" />
-            <g id="g338" transform="translate(10, 10)" >
+            <g id="g282" transform="translate(10, 10)" >
             <text 
                 y="8.8" 
                 class="layout-name"
@@ -88,7 +91,7 @@
                 <![CDATA[Layout: marz_split_3x6_4]]>
             </text>
             </g>
-<g id="g339" transform="translate(10, 20.8)" >
+<g id="g283" transform="translate(10, 20.8)" >
             <text 
                 y="5.6" 
                 class="layout-display"
@@ -98,18 +101,18 @@
 ]]>
             </text>
             </g>
-<g id="g340" transform="translate(10, 34.0)" ></g>
-<g id="g341" transform="translate(10, 46.0)" >
+<g id="g284" transform="translate(10, 34.0)" ></g>
+<g id="g285" transform="translate(10, 46.0)" >
             <text 
                 y="8" 
-                class="layer-title layer-0-title"
+                class="layer-title layer-5-title"
                 style="font-size:8;text-align:left;text-anchor:start;;">
-                <![CDATA[Layer: DEF (0) ]]>
+                <![CDATA[Layer: FC0 (5) ]]>
             </text>
             </g>
-<g id="g342" transform="translate(10, 56.0)" ></g>
-<g id="g343" transform="translate(10, 68.0)" ><g id="g286" transform="translate(0, 14.25)"  class="key keypos-0 behavior-modtap" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-0"
+<g id="g286" transform="translate(10, 56.0)" ></g>
+<g id="g287" transform="translate(10, 68.0)" ><g id="g230" transform="translate(0, 14.25)"  class="key keypos-0 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-0"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -117,8 +120,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g287" transform="translate(19, 14.25)"  class="key keypos-1 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-1"
+<g id="g231" transform="translate(19, 14.25)"  class="key keypos-1 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-1"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -126,8 +129,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g288" transform="translate(38, 4.75)"  class="key keypos-2 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-2"
+<g id="g232" transform="translate(38, 4.75)"  class="key keypos-2 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-2"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -135,8 +138,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g289" transform="translate(57, 0)"  class="key keypos-3 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-3"
+<g id="g233" transform="translate(57, 0)"  class="key keypos-3 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-3"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -144,8 +147,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g290" transform="translate(76, 6.6499999999999995)"  class="key keypos-4 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-4"
+<g id="g234" transform="translate(76, 6.6499999999999995)"  class="key keypos-4 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-4"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -153,8 +156,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g291" transform="translate(95, 8.55)"  class="key keypos-5 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-5"
+<g id="g235" transform="translate(95, 8.55)"  class="key keypos-5 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-5"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -162,8 +165,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g292" transform="translate(209, 8.55)"  class="key keypos-6 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-6"
+<g id="g236" transform="translate(209, 8.55)"  class="key keypos-6 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-6"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -171,8 +174,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g293" transform="translate(228, 6.6499999999999995)"  class="key keypos-7 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-7"
+<g id="g237" transform="translate(228, 6.6499999999999995)"  class="key keypos-7 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-7"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -180,8 +183,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g294" transform="translate(247, 0)"  class="key keypos-8 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-8"
+<g id="g238" transform="translate(247, 0)"  class="key keypos-8 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-8"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -189,8 +192,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g295" transform="translate(266, 4.75)"  class="key keypos-9 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-9"
+<g id="g239" transform="translate(266, 4.75)"  class="key keypos-9 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-9"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -198,8 +201,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g296" transform="translate(285, 14.25)"  class="key keypos-10 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-10"
+<g id="g240" transform="translate(285, 14.25)"  class="key keypos-10 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-10"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -207,8 +210,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g297" transform="translate(304, 14.25)"  class="key keypos-11 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-11"
+<g id="g241" transform="translate(304, 14.25)"  class="key keypos-11 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-11"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -216,8 +219,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g298" transform="translate(0, 33.25)"  class="key keypos-12 behavior-modtap" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-12"
+<g id="g242" transform="translate(0, 33.25)"  class="key keypos-12 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-12"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -225,8 +228,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g299" transform="translate(19, 33.25)"  class="key keypos-13 behavior-modtap" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-13"
+<g id="g243" transform="translate(19, 33.25)"  class="key keypos-13 behavior-modtap" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-13"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -234,8 +237,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g300" transform="translate(38, 23.75)"  class="key keypos-14 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-14"
+<g id="g244" transform="translate(38, 23.75)"  class="key keypos-14 behavior-modtap" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-14"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -243,8 +246,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g301" transform="translate(57, 19)"  class="key keypos-15 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-15"
+<g id="g245" transform="translate(57, 19)"  class="key keypos-15 behavior-modtap" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-15"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -252,8 +255,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g302" transform="translate(76, 25.650000000000002)"  class="key keypos-16 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-16"
+<g id="g246" transform="translate(76, 25.650000000000002)"  class="key keypos-16 behavior-modtap" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-16"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -261,8 +264,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g303" transform="translate(95, 27.55)"  class="key keypos-17 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-17"
+<g id="g247" transform="translate(95, 27.55)"  class="key keypos-17 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-17"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -270,8 +273,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g304" transform="translate(209, 27.55)"  class="key keypos-18 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-18"
+<g id="g248" transform="translate(209, 27.55)"  class="key keypos-18 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-18"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -279,8 +282,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g305" transform="translate(228, 25.650000000000002)"  class="key keypos-19 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-19"
+<g id="g249" transform="translate(228, 25.650000000000002)"  class="key keypos-19 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-19"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -288,8 +291,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g306" transform="translate(247, 19)"  class="key keypos-20 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-20"
+<g id="g250" transform="translate(247, 19)"  class="key keypos-20 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-20"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -297,8 +300,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g307" transform="translate(266, 23.75)"  class="key keypos-21 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-21"
+<g id="g251" transform="translate(266, 23.75)"  class="key keypos-21 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-21"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -306,8 +309,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g308" transform="translate(285, 33.25)"  class="key keypos-22 behavior-modtap" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-22"
+<g id="g252" transform="translate(285, 33.25)"  class="key keypos-22 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-22"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -315,8 +318,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g309" transform="translate(304, 33.25)"  class="key keypos-23 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-23"
+<g id="g253" transform="translate(304, 33.25)"  class="key keypos-23 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-23"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -324,8 +327,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g310" transform="translate(0, 52.25)"  class="key keypos-24 behavior-modtap" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-24"
+<g id="g254" transform="translate(0, 52.25)"  class="key keypos-24 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-24"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -333,8 +336,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g311" transform="translate(19, 52.25)"  class="key keypos-25 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-25"
+<g id="g255" transform="translate(19, 52.25)"  class="key keypos-25 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-25"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -342,8 +345,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g312" transform="translate(38, 42.75)"  class="key keypos-26 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-26"
+<g id="g256" transform="translate(38, 42.75)"  class="key keypos-26 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-26"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -351,8 +354,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g313" transform="translate(57, 38)"  class="key keypos-27 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-27"
+<g id="g257" transform="translate(57, 38)"  class="key keypos-27 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-27"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -360,8 +363,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g314" transform="translate(76, 44.65)"  class="key keypos-28 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-28"
+<g id="g258" transform="translate(76, 44.65)"  class="key keypos-28 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-28"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -369,8 +372,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g315" transform="translate(95, 46.550000000000004)"  class="key keypos-29 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-29"
+<g id="g259" transform="translate(95, 46.550000000000004)"  class="key keypos-29 behavior-keypress" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-29"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -378,8 +381,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g316" transform="translate(209, 46.550000000000004)"  class="key keypos-30 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-30"
+<g id="g260" transform="translate(209, 46.550000000000004)"  class="key keypos-30 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-30"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -387,8 +390,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g317" transform="translate(228, 44.65)"  class="key keypos-31 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-31"
+<g id="g261" transform="translate(228, 44.65)"  class="key keypos-31 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-31"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -396,8 +399,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g318" transform="translate(247, 38)"  class="key keypos-32 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-32"
+<g id="g262" transform="translate(247, 38)"  class="key keypos-32 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-32"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -405,8 +408,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g319" transform="translate(266, 42.75)"  class="key keypos-33 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-33"
+<g id="g263" transform="translate(266, 42.75)"  class="key keypos-33 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-33"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -414,8 +417,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g320" transform="translate(285, 52.25)"  class="key keypos-34 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-34"
+<g id="g264" transform="translate(285, 52.25)"  class="key keypos-34 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-34"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -423,8 +426,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g321" transform="translate(304, 52.25)"  class="key keypos-35 behavior-keypress" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-35"
+<g id="g265" transform="translate(304, 52.25)"  class="key keypos-35 behavior-transparent" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-35"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -432,8 +435,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g>
-<g id="g323" transform="rotate(10, 74.1, 66.5)"  class="key keypos-36 behavior-layertap" ><g id="g322" transform="translate(74.1, 66.5)" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-36"
+<g id="g267" transform="rotate(10, 74.1, 66.5)"  class="key keypos-36 behavior-layeraction" ><g id="g266" transform="translate(74.1, 66.5)" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-36"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -441,8 +444,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g></g>
-<g id="g325" transform="rotate(15, 95.0, 70.3)"  class="key keypos-37 behavior-layertap" ><g id="g324" transform="translate(95.0, 70.3)" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-37"
+<g id="g269" transform="rotate(15, 95.0, 70.3)"  class="key keypos-37 behavior-layertap" ><g id="g268" transform="translate(95.0, 70.3)" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-37"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -450,8 +453,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g></g>
-<g id="g327" transform="rotate(20, 114.95, 76.0)"  class="key keypos-38 behavior-layertap" ><g id="g326" transform="translate(114.95, 76.0)" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-38"
+<g id="g271" transform="rotate(20, 114.95, 76.0)"  class="key keypos-38 behavior-layertap" ><g id="g270" transform="translate(114.95, 76.0)" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-38"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -459,8 +462,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g></g>
-<g id="g329" transform="rotate(25, 134.9, 83.60000000000001)"  class="key keypos-39 behavior-keypress" ><g id="g328" transform="translate(134.9, 83.60000000000001)" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-39"
+<g id="g273" transform="rotate(25, 134.9, 83.60000000000001)"  class="key keypos-39 behavior-layertap" ><g id="g272" transform="translate(134.9, 83.60000000000001)" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-39"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -468,8 +471,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g></g>
-<g id="g331" transform="rotate(-25, 188.1, 83.60000000000001)"  class="key keypos-40 behavior-keypress" ><g id="g330" transform="translate(169.1, 83.60000000000001)" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-40"
+<g id="g275" transform="rotate(-25, 188.1, 83.60000000000001)"  class="key keypos-40 behavior-transparent" ><g id="g274" transform="translate(169.1, 83.60000000000001)" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-40"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -477,8 +480,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g></g>
-<g id="g333" transform="rotate(-20, 208.04999999999998, 76.0)"  class="key keypos-41 behavior-layertap" ><g id="g332" transform="translate(189.04999999999998, 76.0)" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-41"
+<g id="g277" transform="rotate(-20, 208.04999999999998, 76.0)"  class="key keypos-41 behavior-transparent" ><g id="g276" transform="translate(189.04999999999998, 76.0)" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-41"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -486,8 +489,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g></g>
-<g id="g335" transform="rotate(-15, 228.0, 70.3)"  class="key keypos-42 behavior-layertap" ><g id="g334" transform="translate(209.0, 70.3)" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-42"
+<g id="g279" transform="rotate(-15, 228.0, 70.3)"  class="key keypos-42 behavior-transparent" ><g id="g278" transform="translate(209.0, 70.3)" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-42"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -495,8 +498,8 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g></g>
-<g id="g337" transform="rotate(-10, 248.9, 66.5)"  class="key keypos-43 behavior-layertap" ><g id="g336" transform="translate(229.9, 66.5)" >
-    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-0-43"
+<g id="g281" transform="rotate(-10, 248.9, 66.5)"  class="key keypos-43 behavior-transparent" ><g id="g280" transform="translate(229.9, 66.5)" >
+    <path transform="translate(2.5, 2.5)" class="key-switch" id="key-switch-5-43"
         d="M 0.999938,-0.799952 V 0 H 0 V 0.999939 H -0.799952 V 4.499983
         H 0 v 4.999695 h -0.799952 v 3.500045 H 0 v 0.999939 h 0.999938
         v 0.799951 h 3.500045 v -0.799951 h 4.999695 v 0.799951 h 3.50004
@@ -504,9 +507,9 @@
         V 4.499983 h 0.79995 V 0.999939 h -0.79995 V 0 h -0.99994 V -0.799952
         H 9.499678 V 0 H 4.499983 v -0.799952 z" />
 </g></g></g>
-<g id="g344" transform="translate(10, 172.60000000000002)" ></g>
-<g id="g345" transform="translate(10, 184.60000000000002)" ></g>
-<g id="g346" transform="translate(10, 196.60000000000002)" >
+<g id="g288" transform="translate(10, 172.60000000000002)" ></g>
+<g id="g289" transform="translate(10, 184.60000000000002)" ></g>
+<g id="g290" transform="translate(10, 196.60000000000002)" >
             <text  transform="translate(171.5, 0)" 
                 y="5.6" 
                 class="zkeymap-notice"
@@ -514,7 +517,7 @@
                 <![CDATA[Generated by zkeymap.]]>
             </text>
             </g>
-<g id="g347" transform="translate(10, 204.20000000000002)" >
+<g id="g291" transform="translate(10, 204.20000000000002)" >
             <text  transform="translate(171.5, 0)" 
                 y="5.6" 
                 class="zkeymap-link"
