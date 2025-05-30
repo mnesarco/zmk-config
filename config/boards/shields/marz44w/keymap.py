@@ -10,6 +10,7 @@ from zkeymap.lang import (
     label,
     combo,
     uc_linux_shift_ctrl_u as uc,
+    macro,
 )
 
 from zkeymap import     (
@@ -42,7 +43,7 @@ layer / "num" / label("NUM") / r"""
     ,   0   4   5   6   -         -   4   5   6   0   ,
     zw  .   1   2   3   +         +   1   2   3   .   ▽
 
-            ▽   ▽   ▽   ▽         ▽   ▽   ▽   ▽
+          ▽ (fc0 /) ▽   ▽         ▽   ▽   ▽   ▽
     """
 
 layer / "sym" / label("SYM1") / r"""
@@ -67,6 +68,55 @@ layer / "adj" / label("ADJ") / r"""
     ▽      nlck  usb/ᛒ ▽   ▽   ▽      ▽   ▽   ▽   ▽   ▽   ▽
 
                          ▽ ▽ ▽ ▽      ▽ ▽ ▽ ▽
+    """
+
+# FreeCAD Layers for Tiles
+
+alias / "tiles" / "LC(LA(K))"  # Launch FreeCAD Tiles
+alias / "↑→" / macro("↑ →")
+alias / "↑←" / macro("↑ ←")
+alias / "↓→" / macro("↓ →")
+alias / "↓←" / macro("↓ ←")
+
+# Basically a number keypad and central tile shortcuts
+layer / "fc0" / label("FC0") / r"""
+    esc ,         7   8   9   *           ▽   ▽   ▽   ▽   ▽   ▽
+    /   (fcv 0)   4   5   6   -           ▽   ▽   ▽   ▽   ▽   ▽
+    tab .         1   2   3   +           ▽   ▽   ▽   ▽   ▽   ▽
+
+    (fc0 /) (fcl ⌫) (fcr ⏎) (fc1 tiles)   ▽   ▽   ▽   ▽
+    """
+
+# Keys to move tiles slider
+layer / "fc1" / label("FC1") / r"""
+    ▽   ▽   ↑←   ↑    ↑→   ▽           ▽   ▽   ▽   ▽   ▽   ▽
+    ▽   ▽   ←    ↓    →    ▽           ▽   ▽   ▽   ▽   ▽   ▽
+    ▽   ▽   ↓←   p    ↓→   ▽           ▽   ▽   ▽   ▽   ▽   ▽
+            ▽    ▽    ▽    ▽           ▽   ▽   ▽   ▽
+    """
+
+# Left tile shortcuts (Qwerty)
+layer / "fcl" / label("FCL") / r"""
+    ▽   ▽   q   w   e   ▽           ▽   ▽   ▽   ▽   ▽   ▽
+    ▽   ▽   a   s   d   del         ▽   ▽   ▽   ▽   ▽   ▽
+    ▽   ▽   z   x   c   ▽           ▽   ▽   ▽   ▽   ▽   ▽
+            ▽   ▽   ▽   ▽           ▽   ▽   ▽   ▽
+    """
+
+# Right tile shortcuts (Qwerty)
+layer / "fcr" / label("FCR") / r"""
+    ▽   ▽   r   t   y   ▽           ▽   ▽   ▽   ▽   ▽   ▽
+    ▽   ▽   f   g   h   del         ▽   ▽   ▽   ▽   ▽   ▽
+    ▽   ▽   v   b   n   ▽           ▽   ▽   ▽   ▽   ▽   ▽
+            ▽   ▽   ▽   ▽           ▽   ▽   ▽   ▽
+    """
+
+# Camera rotations
+layer / "fcv" / label("FCV") / r"""
+    ▽   ▽   u   i   o   ▽           ▽   ▽   ▽   ▽   ▽   ▽
+    ▽   ▽   j   k   l   ▽           ▽   ▽   ▽   ▽   ▽   ▽
+    ▽   ▽   ▽   ▽   ▽   ▽           ▽   ▽   ▽   ▽   ▽   ▽
+            ▽   ▽   ▽   ▽           ▽   ▽   ▽   ▽
     """
 
 # Some combos

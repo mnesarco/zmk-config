@@ -9,6 +9,11 @@
 #define L_SYM 2
 #define L_NAV 3
 #define L_ADJ 4
+#define L_FC0 5
+#define L_FC1 6
+#define L_FCL 7
+#define L_FCR 8
+#define L_FCV 9
 
 / {
     macros {
@@ -29,6 +34,58 @@
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&macro_tap &kp LS(LC(U)) &kp N2 &kp N5 &kp B &kp N3 &macro_tap &kp ENTER>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_0: macro_0 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp UP &kp RIGHT>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_1: macro_1 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp UP &kp LEFT>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_2: macro_2 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp DOWN &kp RIGHT>;
+
+
+        };
+    };
+};
+
+
+/ {
+    macros {
+        macro_3: macro_3 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp DOWN &kp LEFT>;
 
 
         };
@@ -109,14 +166,14 @@
             // │ ,   0   4   5   6   -         -   4   5   6   0   , │
             // │ zw  .   1   2   3   +         +   1   2   3   .   ▽ │
             // │                                                     │
-            // │         ▽   ▽   ▽   ▽         ▽   ▽   ▽   ▽         │
+            // │       ▽ (fc0 /) ▽   ▽         ▽   ▽   ▽   ▽         │
             // └─────────────────────────────────────────────────────┘
             bindings = <
 
-                &trans             &kp LS(RBRC)   &kp N7   &kp N8   &kp N9   &kp LS(N7)   &kp LS(N7)   &kp N7   &kp N8   &kp N9   &kp LS(RBRC)   &t3p        
-                &kp COMMA          &kp N0         &kp N4   &kp N5   &kp N6   &kp SLASH    &kp SLASH    &kp N4   &kp N5   &kp N6   &kp N0         &kp COMMA   
-                &kp LC(LA(DOWN))   &kp DOT        &kp N1   &kp N2   &kp N3   &kp RBKT     &kp RBKT     &kp N1   &kp N2   &kp N3   &kp DOT        &trans      
-                                                  &trans   &trans   &trans   &trans       &trans       &trans   &trans   &trans                            
+                &trans             &kp LS(RBRC)   &kp N7   &kp N8       &kp N9   &kp LS(N7)   &kp LS(N7)   &kp N7   &kp N8   &kp N9   &kp LS(RBRC)   &t3p        
+                &kp COMMA          &kp N0         &kp N4   &kp N5       &kp N6   &kp SLASH    &kp SLASH    &kp N4   &kp N5   &kp N6   &kp N0         &kp COMMA   
+                &kp LC(LA(DOWN))   &kp DOT        &kp N1   &kp N2       &kp N3   &kp RBKT     &kp RBKT     &kp N1   &kp N2   &kp N3   &kp DOT        &trans      
+                                                  &trans   &tog L_FC0   &trans   &trans       &trans       &trans   &trans   &trans                            
             >;
         };
 
@@ -139,10 +196,10 @@
             // └────────────────────────────────────────────────────────────────────┘
             bindings = <
 
-                &kp GRAVE      &kp LS(N1)     &kp LS(N2)     &kp LS(N3)    &kp LS(N4)      &kp LS(N5)   &kp LS(N6)   &kp LS(N7)   &kp LS(SQT)   &kp LS(NUHS)   &kp LS(N0)      &kp LS(MINUS)   
-                &kp RA(NUHS)   &kp LS(RBRC)   &kp MINUS      &kp LS(DOT)   &kp LS(SLASH)   &kp SLASH    &kp SLASH    &kp LS(N8)   &kp LS(N9)    &kp SQT        &kp NUHS        &trans          
-                &kp LS(LBRC)   &kp RA(Q)      &kp RA(RBKT)   &kp RA(SQT)   &kp LS(N0)      &kp RBKT     &kp RBKT     &kp MINUS    &kp NUBS      &kp LS(NUBS)   &kp RA(MINUS)   &trans          
-                                              &mo L_ADJ      &trans        &trans          &trans       &trans       &trans       &sl L_NUM     &trans                                       
+                &kp GRAVE       &kp LS(N1)     &kp LS(N2)     &kp LS(N3)    &kp LS(N4)      &kp LS(N5)   &kp LS(N6)   &kp LS(N7)   &kp LS(SQT)   &kp LS(NUHS)   &kp LS(N0)      &kp LS(MINUS)   
+                &kp RA(GRAVE)   &kp LS(RBRC)   &kp MINUS      &kp LS(DOT)   &kp LS(SLASH)   &kp SLASH    &kp SLASH    &kp LS(N8)   &kp LS(N9)    &kp SQT        &kp NUHS        &trans          
+                &kp LS(LBRC)    &kp RA(Q)      &kp RA(RBKT)   &kp RA(SQT)   &kp LS(N0)      &kp RBKT     &kp RBKT     &kp MINUS    &kp NUBS      &kp LS(NUBS)   &kp RA(MINUS)   &trans          
+                                               &mo L_ADJ      &trans        &trans          &trans       &trans       &trans       &sl L_NUM     &trans                                       
             >;
         };
 
@@ -195,6 +252,132 @@
                 &bt BT_CLR    &bt BT_SEL 0   &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3   &bt BT_SEL 4   &bt BT_SEL 4   &bt BT_SEL 3   &bt BT_SEL 2   &bt BT_SEL 1   &bt BT_SEL 0   &bt BT_CLR    
                 &trans        &kp KP_NLCK    &out OUT_TOG   &trans         &trans         &trans         &trans         &trans         &trans         &trans         &trans         &trans        
                                              &trans         &trans         &trans         &trans         &trans         &trans         &trans         &trans                                    
+            >;
+        };
+
+
+
+
+        // ┌────────────────────────────────┐
+        // │ Layer: fc0: num=5, display=FC0 │
+        // └────────────────────────────────┘
+        fc0 {
+            display-name = "FC0";
+
+            // ┌─────────────────────────────────────────────────────────────┐
+            // │                                                             │
+            // │ esc ,         7   8   9   *           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │ /   (fcv 0)   4   5   6   -           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │ tab .         1   2   3   +           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │                                                             │
+            // │ (fc0 /) (fcl ⌫) (fcr ⏎) (fc1 tiles)   ▽   ▽   ▽   ▽         │
+            // └─────────────────────────────────────────────────────────────┘
+            bindings = <
+
+                &kp ESC      &kp COMMA      &kp N7       &kp N8           &kp N9          &kp LS(RBRC)          &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp LS(N7)   &lt L_FCV N0   &kp N4       &kp N5           &kp N6          &kp SLASH             &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp TAB      &kp DOT        &kp N1       &kp N2           &kp N3          &kp RBKT              &trans   &trans   &trans   &trans   &trans   &trans   
+                                            &tog L_FC0   &lt L_FCL BSPC   &lt L_FCR RET   &lt L_FC1 LC(LA(K))   &trans   &trans   &trans   &trans                   
+            >;
+        };
+
+
+
+
+        // ┌────────────────────────────────┐
+        // │ Layer: fc1: num=6, display=FC1 │
+        // └────────────────────────────────┘
+        fc1 {
+            display-name = "FC1";
+
+            // ┌──────────────────────────────────────────────────────────┐
+            // │                                                          │
+            // │ ▽   ▽   ↑←   ↑    ↑→   ▽           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │ ▽   ▽   ←    ↓    →    ▽           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │ ▽   ▽   ↓←   p    ↓→   ▽           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │         ▽    ▽    ▽    ▽           ▽   ▽   ▽   ▽         │
+            // └──────────────────────────────────────────────────────────┘
+            bindings = <
+
+                &trans   &trans   &macro_1   &kp UP     &macro_0    &trans   &trans   &trans   &trans   &trans   &trans   &trans   
+                &trans   &trans   &kp LEFT   &kp DOWN   &kp RIGHT   &trans   &trans   &trans   &trans   &trans   &trans   &trans   
+                &trans   &trans   &macro_3   &kp P      &macro_2    &trans   &trans   &trans   &trans   &trans   &trans   &trans   
+                                  &trans     &trans     &trans      &trans   &trans   &trans   &trans   &trans                   
+            >;
+        };
+
+
+
+
+        // ┌────────────────────────────────┐
+        // │ Layer: fcl: num=7, display=FCL │
+        // └────────────────────────────────┘
+        fcl {
+            display-name = "FCL";
+
+            // ┌───────────────────────────────────────────────────────┐
+            // │                                                       │
+            // │ ▽   ▽   q   w   e   ▽           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │ ▽   ▽   a   s   d   del         ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │ ▽   ▽   z   x   c   ▽           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │         ▽   ▽   ▽   ▽           ▽   ▽   ▽   ▽         │
+            // └───────────────────────────────────────────────────────┘
+            bindings = <
+
+                &trans   &trans   &kp Q    &kp W    &kp E    &trans    &trans   &trans   &trans   &trans   &trans   &trans   
+                &trans   &trans   &kp A    &kp S    &kp D    &kp DEL   &trans   &trans   &trans   &trans   &trans   &trans   
+                &trans   &trans   &kp Z    &kp X    &kp C    &trans    &trans   &trans   &trans   &trans   &trans   &trans   
+                                  &trans   &trans   &trans   &trans    &trans   &trans   &trans   &trans                   
+            >;
+        };
+
+
+
+
+        // ┌────────────────────────────────┐
+        // │ Layer: fcr: num=8, display=FCR │
+        // └────────────────────────────────┘
+        fcr {
+            display-name = "FCR";
+
+            // ┌───────────────────────────────────────────────────────┐
+            // │                                                       │
+            // │ ▽   ▽   r   t   y   ▽           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │ ▽   ▽   f   g   h   del         ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │ ▽   ▽   v   b   n   ▽           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │         ▽   ▽   ▽   ▽           ▽   ▽   ▽   ▽         │
+            // └───────────────────────────────────────────────────────┘
+            bindings = <
+
+                &trans   &trans   &kp R    &kp T    &kp Y       &trans    &trans   &trans   &trans   &trans   &trans   &trans   
+                &trans   &trans   &kp F    &kp G    &kp H       &kp DEL   &trans   &trans   &trans   &trans   &trans   &trans   
+                &trans   &trans   &kp V    &kp B    &kp RA(N)   &trans    &trans   &trans   &trans   &trans   &trans   &trans   
+                                  &trans   &trans   &trans      &trans    &trans   &trans   &trans   &trans                   
+            >;
+        };
+
+
+
+
+        // ┌────────────────────────────────┐
+        // │ Layer: fcv: num=9, display=FCV │
+        // └────────────────────────────────┘
+        fcv {
+            display-name = "FCV";
+
+            // ┌───────────────────────────────────────────────────────┐
+            // │                                                       │
+            // │ ▽   ▽   u   i   o   ▽           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │ ▽   ▽   j   k   l   ▽           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │ ▽   ▽   ▽   ▽   ▽   ▽           ▽   ▽   ▽   ▽   ▽   ▽ │
+            // │         ▽   ▽   ▽   ▽           ▽   ▽   ▽   ▽         │
+            // └───────────────────────────────────────────────────────┘
+            bindings = <
+
+                &trans   &trans   &kp U    &kp I    &kp O    &trans   &trans   &trans   &trans   &trans   &trans   &trans   
+                &trans   &trans   &kp J    &kp K    &kp L    &trans   &trans   &trans   &trans   &trans   &trans   &trans   
+                &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   
+                                  &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans                   
             >;
         };
 
