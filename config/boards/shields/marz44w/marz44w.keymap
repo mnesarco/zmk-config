@@ -16,4 +16,16 @@
     continue-list = <LA_UND LA_MINUS>;
 };
 
+/ {
+    behaviors {
+        mt: mod_tap {
+            compatible = "zmk,behavior-hold-tap";
+            flavor = "balanced";
+            tapping-term-ms = <250>;
+            quick-tap-ms = <150>;
+            hold-trigger-on-release;
+        };
+    };
+};
+
 #include "marz44w_keymap.dtsi"
