@@ -16,6 +16,7 @@
     continue-list = <LA_UND LA_MINUS>;
 };
 
+/*
 / {
     behaviors {
         mt: mod_tap {
@@ -27,5 +28,6 @@
         };
     };
 };
+*/
 
 #include "marz44w_keymap.dtsi"
