@@ -40,13 +40,13 @@ thumbs = "▽ ▽ ▽ ▽  ▽ ▽ ▽ ▽"
 # Base layer: Colemak-DH (Spanish, Latam, Dead keys)
 layer / "def" / label("DEF") / (
     r"""
-    {⌘ esc}    q     w   f   p   b          j   l   u   y   acut     ñ
-    {⎇ tab}  {⇧ a}   r   s   t   g          m   n   e   i   {⇧ o}   cw
-    {⎈  \ }    z     x   c   d   v          k   h   ,   .     ;      ⏎
+    {⌘ esc}  q   w   f   p   b          j   l   u   y   acut     ñ
+    {⎇ tab}  a   r   s   t   g          m   n   e   i     o     cw
+    {⎈  \ }  z   x   c   d   v          k   h   ,   .     ;      ⏎
     """
     # Thumbs ...
     r"""
-    (num tab)  (sym ⌫)  (nav ␣)  [⇧ ⎇]     [r⎇]  (nav ␣)  (sym ⌫)  (adj del)
+    (num tab)  (sym ⌫)  (nav ␣)  ⇧        [r⎇]  (nav ␣)  (sym ⌫)  (adj del)
     """
 )
 
