@@ -29,7 +29,7 @@ layout = marz_split_3x6_4.layout
 
 # User defined aliases
 alias / "cw" / "&caps_word" / label("⇪")
-alias / "##" / "&num_word NUM"
+alias / "##" / "&num_word L_NUM"
 alias / "zw" / "LC(LA(DOWN))"  # Windows Zoom out (Linux Mint)
 alias / ("sel*", "⬚") / "LC(A)"  # Select All
 alias / "∴" / uc(name="t3p", char="∴", shifted="△")  # Fancy unicode chars
