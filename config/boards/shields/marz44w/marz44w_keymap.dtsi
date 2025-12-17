@@ -324,7 +324,7 @@
             // └──────────────────────────────────────────────────────────────────────────────────────┘
             bindings = <
 
-                &trans   &kp F1       &kp F2      &kp F3        &kp F4          &kp F5      &trans         &kp PG_UP      &kp UP     &kp PG_UP       &kp F10       &kp F11   
+                &trans   &kp F1       &kp F2      &kp F3        &kp F4          &kp F5      &trans         &kp PG_UP      &kp UP     &kp PG_DN       &kp F10       &kp F11   
                 &trans   &kp LSHIFT   &kp MINUS   &kp LS(DOT)   &kp LS(SLASH)   &kp SLASH   &kp HOME       &kp LEFT       &kp DOWN   &kp RIGHT       &kp END       &kp F12   
                 &trans   &kp F6       &kp F7      &kp F8        &kp F9          &kp F10     &kp LC(HOME)   &kp LC(LEFT)   &none      &kp LC(RIGHT)   &kp LC(END)   &trans    
                                       &trans      &trans        &trans          &trans      &trans         &trans         &trans     &trans                                
