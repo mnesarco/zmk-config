@@ -29,6 +29,7 @@ layout = marz_split_3x6_4.layout
 
 # User defined aliases
 alias / "cw" / "&caps_word" / label("⇪")
+alias / "##" / "&num_word NUM"
 alias / "zw" / "LC(LA(DOWN))"  # Windows Zoom out (Linux Mint)
 alias / ("sel*", "⬚") / "LC(A)"  # Select All
 alias / "∴" / uc(name="t3p", char="∴", shifted="△")  # Fancy unicode chars
@@ -41,12 +42,12 @@ thumbs = "▽ ▽ ▽ ▽  ▽ ▽ ▽ ▽"
 layer / "def" / label("DEF") / (
     r"""
     {⌘ esc}  q   w   f   p   b          j   l   u   y   acut     ñ
-    {⎇ tab}  a   r   s   t   g          m   n   e   i     o     cw
-    {⎈  \ }  z   x   c   d   v          k   h   ,   .     ;      ⏎
+    {⎇  \ }  a   r   s   t   g          m   n   e   i     o     cw
+    {⎈ tab}  z   x   c   d   v          k   h   ,   .     ;      ⏎
     """
     # Thumbs ...
     r"""
-    (num tab)  (sym ⌫)  (nav ␣)  ⇧        [r⎇]  (nav ␣)  (sym ⌫)  (adj del)
+    (num ##)  (sym ⌫)  (nav ␣)  ⇧        [r⎇]  (nav ␣)  (sym ⌫)  (adj del)
     """
 )
 
