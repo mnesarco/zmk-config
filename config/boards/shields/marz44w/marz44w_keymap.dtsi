@@ -16,19 +16,6 @@
 
 / {
     macros {
-        macro_0: macro_0 {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings = <&num_word L_NUM>;
-
-
-        };
-    };
-};
-
-
-/ {
-    macros {
         t3p_lc: t3p_lc {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
@@ -55,7 +42,7 @@
 
 / {
     macros {
-        macro_1: macro_1 {
+        macro_0: macro_0 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LC(LA(LG(UP)))>;
@@ -68,7 +55,7 @@
 
 / {
     macros {
-        macro_2: macro_2 {
+        macro_1: macro_1 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LC(LA(LG(DOWN)))>;
@@ -81,7 +68,7 @@
 
 / {
     macros {
-        macro_3: macro_3 {
+        macro_2: macro_2 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LC(LA(LG(LEFT)))>;
@@ -94,7 +81,7 @@
 
 / {
     macros {
-        macro_4: macro_4 {
+        macro_3: macro_3 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LC(LA(LG(RIGHT)))>;
@@ -107,7 +94,7 @@
 
 / {
     macros {
-        macro_5: macro_5 {
+        macro_4: macro_4 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LC(LG(UP))>;
@@ -120,7 +107,7 @@
 
 / {
     macros {
-        macro_6: macro_6 {
+        macro_5: macro_5 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LC(LG(DOWN))>;
@@ -133,7 +120,7 @@
 
 / {
     macros {
-        macro_7: macro_7 {
+        macro_6: macro_6 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LC(LG(LEFT))>;
@@ -146,7 +133,7 @@
 
 / {
     macros {
-        macro_8: macro_8 {
+        macro_7: macro_7 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LC(LG(RIGHT))>;
@@ -159,7 +146,7 @@
 
 / {
     macros {
-        macro_9: macro_9 {
+        macro_8: macro_8 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LC(LG(W))>;
@@ -172,7 +159,7 @@
 
 / {
     macros {
-        macro_10: macro_10 {
+        macro_9: macro_9 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LS(LC(LG(UP)))>;
@@ -185,7 +172,7 @@
 
 / {
     macros {
-        macro_11: macro_11 {
+        macro_10: macro_10 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LS(LC(LG(DOWN)))>;
@@ -198,7 +185,7 @@
 
 / {
     macros {
-        macro_12: macro_12 {
+        macro_11: macro_11 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp V &kp F>;
@@ -237,6 +224,21 @@
 };
 
 
+/ {
+    combos {
+        compatible = "zmk,combos";
+        combo_1 {
+            key-positions = <27 28>;
+            bindings = <&num_word L_NUM>;
+
+
+
+            layers = <0>;
+        };
+    };
+};
+
+
 
 
 / {
@@ -250,20 +252,20 @@
         def {
             display-name = "DEF";
 
-            // ┌──────────────────────────────────────────────────────────────────────────┐
-            // │                                                                          │
-            // │ {⌘ esc}  q   w   f   p   b          j   l   u   y   acut     ñ           │
-            // │ {⎇  \ }  a   r   s   t   g          m   n   e   i     o     cw           │
-            // │ {⎈ tab}  z   x   c   d   v          k   h   ,   .     ;      ⏎           │
-            // │                                                                          │
-            // │ (num $num)  (sym ⌫)  (nav ␣)  ⇧        [r⎇]  (nav ␣)  (sym ⌫)  (adj del) │
-            // └──────────────────────────────────────────────────────────────────────────┘
+            // ┌───────────────────────────────────────────────────────────────────────┐
+            // │                                                                       │
+            // │ {⌘ esc}  q   w   f   p   b          j   l   u   y   acut     ñ        │
+            // │ {⎇  \ }  a   r   s   t   g          m   n   e   i     o     cw        │
+            // │ {⎈ tab}  z   x   c   d   v          k   h   ,   .     ;      ⏎        │
+            // │                                                                       │
+            // │ (num ⏎)  (sym ⌫)  (nav ␣)  ⇧        [r⎇]  (nav ␣)  (sym ⌫)  (adj del) │
+            // └───────────────────────────────────────────────────────────────────────┘
             bindings = <
 
-                &mt LGUI ESC         &kp Q   &kp W                &kp F            &kp P           &kp B        &kp J      &kp L           &kp U            &kp Y           &kp LBKT        &kp SEMI     
-                &mt LALT RA(MINUS)   &kp A   &kp R                &kp S            &kp T           &kp G        &kp M      &kp N           &kp E            &kp I           &kp O           &caps_word   
-                &mt LCTRL TAB        &kp Z   &kp X                &kp C            &kp D           &kp V        &kp K      &kp H           &kp COMMA        &kp DOT         &kp LS(COMMA)   &kp RET      
-                                             &lt L_NUM &macro_0   &lt L_SYM BSPC   &lt L_NAV SPC   &kp LSHIFT   &kp RALT   &lt L_NAV SPC   &lt L_SYM BSPC   &lt L_ADJ DEL                              
+                &mt LGUI ESC         &kp Q   &kp W           &kp F            &kp P           &kp B        &kp J      &kp L           &kp U            &kp Y           &kp LBKT        &kp SEMI     
+                &mt LALT RA(MINUS)   &kp A   &kp R           &kp S            &kp T           &kp G        &kp M      &kp N           &kp E            &kp I           &kp O           &caps_word   
+                &mt LCTRL TAB        &kp Z   &kp X           &kp C            &kp D           &kp V        &kp K      &kp H           &kp COMMA        &kp DOT         &kp LS(COMMA)   &kp RET      
+                                             &lt L_NUM RET   &lt L_SYM BSPC   &lt L_NAV SPC   &kp LSHIFT   &kp RALT   &lt L_NAV SPC   &lt L_SYM BSPC   &lt L_ADJ DEL                              
             >;
         };
 
@@ -416,9 +418,9 @@
             // └─────────────────────────────────────────────────────────┘
             bindings = <
 
-                &kp LS(LC(F5))   &kp LS(LC(F6))   &macro_1   &macro_5   &macro_2        &macro_10   &trans   &trans   &trans   &trans   &trans   &trans   
-                &kp LS(LC(F3))   &kp LS(LC(F4))   &macro_7   &macro_6   &macro_8        &macro_11   &trans   &trans   &trans   &trans   &trans   &trans   
-                &kp LS(LC(F1))   &kp LS(LC(F2))   &macro_3   &macro_9   &kp LC(LG(C))   &macro_12   &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp LS(LC(F5))   &kp LS(LC(F6))   &macro_0   &macro_4   &macro_1        &macro_9    &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp LS(LC(F3))   &kp LS(LC(F4))   &macro_6   &macro_5   &macro_7        &macro_10   &trans   &trans   &trans   &trans   &trans   &trans   
+                &kp LS(LC(F1))   &kp LS(LC(F2))   &macro_2   &macro_8   &kp LC(LG(C))   &macro_11   &trans   &trans   &trans   &trans   &trans   &trans   
                                                   &trans     &trans     &trans          &none       &trans   &trans   &trans   &trans                   
             >;
         };

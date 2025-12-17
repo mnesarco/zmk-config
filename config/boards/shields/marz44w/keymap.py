@@ -29,7 +29,7 @@ layout = marz_split_3x6_4.layout
 
 # User defined aliases
 alias / "cw" / "&caps_word" / label("⇪")
-alias / "$num" / macro("<&num_word L_NUM>")
+# alias / "$num" / "&num_word L_NUM" # num-word (aka auto num)
 alias / "zw" / "LC(LA(DOWN))"  # Windows Zoom out (Linux Mint)
 alias / ("sel*", "⬚") / "LC(A)"  # Select All
 alias / "∴" / uc(name="t3p", char="∴", shifted="△")  # Fancy unicode chars
@@ -47,7 +47,7 @@ layer / "def" / label("DEF") / (
     """
     # Thumbs ...
     r"""
-    (num $num)  (sym ⌫)  (nav ␣)  ⇧        [r⎇]  (nav ␣)  (sym ⌫)  (adj del)
+    (num ⏎)  (sym ⌫)  (nav ␣)  ⇧        [r⎇]  (nav ␣)  (sym ⌫)  (adj del)
     """
 )
 
@@ -176,6 +176,12 @@ layer / "fcr" / label("FCR") / (
 combo(
     "zw",
     key_positions=[38, 41],
+    layers=["def"],
+)
+
+combo(
+    "<&num_word L_NUM>",
+    key_positions=[27, 28],
     layers=["def"],
 )
 
