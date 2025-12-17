@@ -237,20 +237,20 @@
         def {
             display-name = "DEF";
 
-            // ┌────────────────────────────────────────────────────────────────────────┐
-            // │                                                                        │
-            // │ {⌘ esc}  q   w   f   p   b          j   l   u   y   acut     ñ         │
-            // │ {⎇  \ }  a   r   s   t   g          m   n   e   i     o     cw         │
-            // │ {⎈ tab}  z   x   c   d   v          k   h   ,   .     ;      ⏎         │
-            // │                                                                        │
-            // │ (num ##)  (sym ⌫)  (nav ␣)  ⇧        [r⎇]  (nav ␣)  (sym ⌫)  (adj del) │
-            // └────────────────────────────────────────────────────────────────────────┘
+            // ┌──────────────────────────────────────────────────────────────────┐
+            // │                                                                  │
+            // │ {⌘ esc}  q   w   f   p   b          j   l   u   y   acut     ñ   │
+            // │ {⎇  \ }  a   r   s   t   g          m   n   e   i     o     cw   │
+            // │ {⎈ tab}  z   x   c   d   v          k   h   ,   .     ;      ⏎   │
+            // │                                                                  │
+            // │ ##  (sym ⌫)  (nav ␣)  ⇧        [r⎇]  (nav ␣)  (sym ⌫)  (adj del) │
+            // └──────────────────────────────────────────────────────────────────┘
             bindings = <
 
-                &mt LGUI ESC         &kp Q   &kp W                     &kp F            &kp P           &kp B        &kp J      &kp L           &kp U            &kp Y           &kp LBKT        &kp SEMI     
-                &mt LALT RA(MINUS)   &kp A   &kp R                     &kp S            &kp T           &kp G        &kp M      &kp N           &kp E            &kp I           &kp O           &caps_word   
-                &mt LCTRL TAB        &kp Z   &kp X                     &kp C            &kp D           &kp V        &kp K      &kp H           &kp COMMA        &kp DOT         &kp LS(COMMA)   &kp RET      
-                                             &lt L_NUM &num_word NUM   &lt L_SYM BSPC   &lt L_NAV SPC   &kp LSHIFT   &kp RALT   &lt L_NAV SPC   &lt L_SYM BSPC   &lt L_ADJ DEL                              
+                &mt LGUI ESC         &kp Q   &kp W           &kp F            &kp P           &kp B        &kp J      &kp L           &kp U            &kp Y           &kp LBKT        &kp SEMI     
+                &mt LALT RA(MINUS)   &kp A   &kp R           &kp S            &kp T           &kp G        &kp M      &kp N           &kp E            &kp I           &kp O           &caps_word   
+                &mt LCTRL TAB        &kp Z   &kp X           &kp C            &kp D           &kp V        &kp K      &kp H           &kp COMMA        &kp DOT         &kp LS(COMMA)   &kp RET      
+                                             &num_word NUM   &lt L_SYM BSPC   &lt L_NAV SPC   &kp LSHIFT   &kp RALT   &lt L_NAV SPC   &lt L_SYM BSPC   &lt L_ADJ DEL                              
             >;
         };
 
