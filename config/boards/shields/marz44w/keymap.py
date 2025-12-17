@@ -47,7 +47,7 @@ layer / "def" / label("DEF") / (
     """
     # Thumbs ...
     r"""
-    (num ##)  (sym ⌫)  (nav ␣)  ⇧        [r⎇]  (nav ␣)  (sym ⌫)  (adj del)
+    ##  (sym ⌫)  (nav ␣)  ⇧        [r⎇]  (nav ␣)  (sym ⌫)  (adj del)
     """
 )
 
