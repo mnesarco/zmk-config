@@ -17,6 +17,10 @@
     continue-list = <LA_UND LA_MINUS>;
 };
 
+&num_word {
+  continue-list = <BSPC DEL DOT COMMA RBKT LS(RBRC) LS(N7) LS(N0) SLASH>;
+};
+
 /*
 / {
     behaviors {
