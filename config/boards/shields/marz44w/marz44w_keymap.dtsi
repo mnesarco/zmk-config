@@ -307,7 +307,7 @@
             // ┌────────────────────────────────────────────────────────────────────┐
             // │                                                                    │
             // │ |      !   "  [#]  $   %       &     /    [ [ ]  [ \] ]    =     ? │
-            // │ grv    -   '   :   _   *       *   [ ( ]  [ ) ]  [ {  ]  [ } ]   ▽ │
+            // │ grv    -   '   :   _   *       *   [ ( ]  [ ) ]  [ {  ]  [ } ]   / │
             // │ diae   @   ~   ^   =   +       +     '    [ < ]  [ >  ]  [ \ ]   ▽ │
             // │                                                                    │
             // │         (adj)  ▽   ▽   ▽       ▽  ▽  (num ~) ▽                     │
@@ -315,7 +315,7 @@
             bindings = <
 
                 &kp GRAVE      &kp LS(N1)   &kp LS(N2)     &kp LS(N3)    &kp LS(N4)      &kp LS(N5)     &kp LS(N6)     &kp LS(N7)   &kp LS(SQT)   &kp LS(NUHS)   &kp LS(N0)      &kp LS(MINUS)   
-                &kp RA(NUHS)   &kp SLASH    &kp MINUS      &kp LS(DOT)   &kp LS(SLASH)   &kp LS(RBRC)   &kp LS(RBRC)   &kp LS(N8)   &kp LS(N9)    &kp SQT        &kp NUHS        &trans          
+                &kp RA(NUHS)   &kp SLASH    &kp MINUS      &kp LS(DOT)   &kp LS(SLASH)   &kp LS(RBRC)   &kp LS(RBRC)   &kp LS(N8)   &kp LS(N9)    &kp SQT        &kp NUHS        &kp LS(N7)      
                 &kp LS(LBRC)   &kp RA(Q)    &kp RA(RBKT)   &kp RA(SQT)   &kp LS(N0)      &kp RBKT       &kp RBKT       &kp MINUS    &kp NUBS      &kp LS(NUBS)   &kp RA(MINUS)   &trans          
                                             &mo L_ADJ      &trans        &trans          &trans         &trans         &trans       &sl L_NUM     &trans                                       
             >;
